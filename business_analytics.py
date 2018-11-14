@@ -34,15 +34,12 @@ companies_rounds_sector.groupby('sector').count()
 maximum = 0
 max_sub = None
 company_sub = None
-for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'services']:
-    for subs in substring(str(company), 5):
-        lev = levenshtein_max(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'services'], subs)
+for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'animals, plants and environment']:
+    for subs in substrings(str(company), 5):
+        lev = levenshtein_max(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'animals, plants and environment'], subs)
         if lev < min:
             maximum = lev
             max_sub = subs
             company_sub = company
 max_sub
 company_sub
-
-
-companies_rounds_sector['company_name'][1500:1504]
