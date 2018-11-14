@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from levesthein import *
 
+
 direc = "/home/edoardo/Desktop/Business"
 
 companies_data = pd.read_excel(direc + '/crunchbase_monthly_export_d43b4klo2ade53.xlsx', sheet_name= "Companies")
@@ -27,17 +28,20 @@ companies_grouped = companies_rounds_sector.groupby(["company_name"])[['company_
 companies_rounds_sector = companies_grouped.merge(companies_rounds_sector, on=["company_name", "raised_amount_usd"], how="left")
 companies_rounds_sector.groupby('sector').count()
 
-min = np.inf
-min_sub = None
+
+
+
+maximum = 0
+max_sub = None
 company_sub = None
 for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'services']:
-    for subs in find_all_substring(str(company), 5):
-        lev = levenshtein_sum(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'services'], subs)
+    for subs in substring(str(company), 5):
+        lev = levenshtein_max(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'services'], subs)
         if lev < min:
-            min = lev
-            min_sub = subs
+            maximum = lev
+            max_sub = subs
             company_sub = company
-min_sub
+max_sub
 company_sub
 
 

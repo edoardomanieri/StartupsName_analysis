@@ -1,3 +1,4 @@
+import ctypes
 def call_counter(func):
     def helper(*args, **kwargs):
         helper.calls += 1
@@ -28,6 +29,9 @@ def levenshtein(s, t):
     return res
 
 
+_lev = ctypes.CDLL('./liblev.so')
+_lev.levenshtein.argtypes = (ctypes.POINTER(ctypes.c_char), ctypes.POINTER(ctypes.c_char))
+
 def find_all_substring(string, n ):
     res = []
     for i in range(n, len(string)):
@@ -43,8 +47,13 @@ def substrings(string, number_of_letters):
         res.append(string[i: i + number_of_letters])
     return res
 
-def levenshtein_sum(list_of_strings, substring):
+def levenshtein_max(list_of_strings, substring):
     res = 0
+    array_type_sub = ctypes.c_char * len(substring)
+    substring = str(substring)
     for elem in list_of_strings:
-        res += levenshtein(str(elem), str(substring))
+        elem = str(elem)
+        array_type_elem = ctypes.c_char * len(elem)
+        if _lev.levesthein(array_type_elem(*elem), array_type_sub(*substring)) < 3:
+            res += 1
     return res
