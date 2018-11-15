@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from levenshtein import *
+from collections import defaultdict
 
 
 direc = "/home/edoardo/Desktop/Business"
@@ -38,18 +39,24 @@ companies_rounds_sector
 
 
 
-companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']
+companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']
 
 param = 1
 maximum = 0
-max_sub = None
-company_sub = None
-for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']:
+most_common_subs = []
+company_sub = []
+is_sorted = False
+for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']:
     for subs in substrings(str(company),5):
-        lev = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']), subs, param)
-        if lev > maximum:
-            maximum = lev
-            max_sub = subs
-            company_sub = company
-max_sub
-levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']), max_sub, param)
+        result = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']), subs, param)
+        if len(most_common_subs) < 5 and (subs, result) not in most_common_subs:
+            most_common_subs.append((subs, result))
+        if len(most_common_subs) == 5:
+            if not is_sorted:
+                most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
+                is_sorted = True
+            if result > most_common_subs[-1][1] and (subs, result) not in most_common_subs:
+                most_common_subs[-1] = (subs, result)
+                most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
+most_common_subs
+#levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']), max_sub, param)
