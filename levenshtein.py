@@ -30,7 +30,8 @@ import ctypes
 
 
 _lev = ctypes.CDLL('./liblev.so')
-_lev.levenshtein.argtypes = (ctypes.POINTER(ctypes.c_char), ctypes.POINTER(ctypes.c_char))
+_lev.levenshtein.argtypes = (ctypes.c_wchar_p, ctypes.c_wchar_p)
+_lev.levenshtein.restypes = ctypes.c_int
 
 def find_all_substring(string, n ):
     res = []
@@ -49,11 +50,11 @@ def substrings(string, number_of_letters):
 
 def levenshtein_max(list_of_strings, substring):
     res = 0
-    array_type_sub = ctypes.c_char * len(substring)
     substring = str(substring)
+    c_substring = ctypes.c_wchar_p(substring)
     for elem in list_of_strings:
         elem = str(elem)
-        array_type_elem = ctypes.c_char * len(elem)
-        if _lev.levenshtein(array_type_elem(*elem), array_type_sub(*substring)) < 3:
+        c_elem = ctypes.c_wchar_p(elem)
+        if _lev.levenshtein(c_elem, c_substring) < 20:
             res += 1
     return res
