@@ -30,7 +30,7 @@ import ctypes
 
 
 _lev = ctypes.CDLL('./liblev.so')
-_lev.levenshtein.argtypes = (ctypes.c_wchar_p, ctypes.c_wchar_p)
+_lev.levenshtein.argtypes = (ctypes.c_char_p, ctypes.c_char_p)
 _lev.levenshtein.restypes = ctypes.c_uint
 
 def find_all_substring(string, n ):
@@ -48,22 +48,17 @@ def substrings(string, number_of_letters):
         res.append(string[i: i + number_of_letters])
     return res
 
-def levenshtein_max(list_of_strings, substring):
+def levenshtein_max(list_of_strings, substring, param):
     res = 0
     substring = str(substring)
-    c_substring = ctypes.c_wchar_p(substring)
-    for elem in list_of_strings:
-        elem = str(elem)
-        c_elem = ctypes.c_wchar_p(elem)
-        lev = _lev.levenshtein(c_elem, c_substring)
-        if lev < 2.5:
-            res += 1
+    c_substring = substring.encode('utf-8')
+    for comp in list_of_strings:
+        for elem in comp.split():
+            elem = str(elem)
+            c_elem = elem.encode('utf-8')
+            lev = _lev.levenshtein(c_elem, c_substring)
+            if len(c_elem) > len(c_substring):
+                lev -= len(c_elem) - len(c_substring)
+            if lev <= param:
+                res += 1
     return res
-
-
-name1 = "adobe"
-name2 = "adads"
-lev = _lev.levenshtein(ctypes.c_wchar_p(str(name1)), ctypes.c_wchar_p(str(name2)))
-lev
-ctypes.c_wchar_p("adobe")
-ctypes.c_wchar_p("adobe")

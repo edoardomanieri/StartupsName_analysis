@@ -44,9 +44,9 @@ levenshtein(const char *a, const char *b) {
     index = -1;
 
     while (++index < length) {
+
       bDistance = code == a[index] ? distance : distance + 1;
       distance = cache[index];
-
       cache[index] = result = distance > result
         ? bDistance > result
           ? result + 1
@@ -58,7 +58,6 @@ levenshtein(const char *a, const char *b) {
   }
 
   free(cache);
-
   return result;
 }
 
@@ -66,7 +65,7 @@ int main(){
   char *str1 = "adobe";
   char *str2 = "adoce";
 
-  int lev = levenshtein(*str1, *str2);
+  int lev = levenshtein(str1,str2);
   printf("%d\n", lev);
 
   return 0;

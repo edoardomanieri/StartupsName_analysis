@@ -38,16 +38,18 @@ companies_rounds_sector
 
 
 
-companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'consumer electronics']
+companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']
+
+param = 1
 maximum = 0
 max_sub = None
 company_sub = None
-for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'consumer electronics']:
-    for subs in substrings(str(company), 5):
-        lev = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'consumer electronics']), subs)
+for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']:
+    for subs in substrings(str(company),5):
+        lev = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']), subs, param)
         if lev > maximum:
             maximum = lev
             max_sub = subs
             company_sub = company
 max_sub
-company_sub
+levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'financials']), max_sub, param)
