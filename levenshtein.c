@@ -1,22 +1,73 @@
-
 #include <string.h>
+#include <stdlib.h>
+#include <stdio.h>
+/* Returns an unsigned integer, depicting
+ * the difference between `a` and `b`.
+ * See http://en.wikipedia.org/wiki/Levenshtein_distance
+ * for more information. */
 
-#define MIN3(a, b, c) ((a) < (b) ? ((a) < (c) ? (a) : (c)) : ((b) < (c) ? (b) : (c)))
+unsigned int
+levenshtein(const char *a, const char *b) {
+  unsigned int length = strlen(a);
+  unsigned int bLength = strlen(b);
+  unsigned int *cache = calloc(length, sizeof(unsigned int));
+  unsigned int index = 0;
+  unsigned int bIndex = 0;
+  unsigned int distance;
+  unsigned int bDistance;
+  unsigned int result;
+  char code;
 
-int levenshtein(char *s1, char *s2) {
-    unsigned int s1len, s2len, x, y, lastdiag, olddiag;
-    s1len = strlen(s1);
-    s2len = strlen(s2);
-    unsigned int column[s1len+1];
-    for (y = 1; y <= s1len; y++)
-        column[y] = y;
-    for (x = 1; x <= s2len; x++) {
-        column[0] = x;
-        for (y = 1, lastdiag = x-1; y <= s1len; y++) {
-            olddiag = column[y];
-            column[y] = MIN3(column[y] + 1, column[y-1] + 1, lastdiag + (s1[y-1] == s2[x-1] ? 0 : 1));
-            lastdiag = olddiag;
-        }
+  /* Shortcut optimizations / degenerate cases. */
+  if (a == b) {
+    return 0;
+  }
+
+  if (length == 0) {
+    return bLength;
+  }
+
+  if (bLength == 0) {
+    return length;
+  }
+
+  /* initialize the vector. */
+  while (index < length) {
+    cache[index] = index + 1;
+    index++;
+  }
+
+  /* Loop. */
+  while (bIndex < bLength) {
+    code = b[bIndex];
+    result = distance = bIndex++;
+    index = -1;
+
+    while (++index < length) {
+      bDistance = code == a[index] ? distance : distance + 1;
+      distance = cache[index];
+
+      cache[index] = result = distance > result
+        ? bDistance > result
+          ? result + 1
+          : bDistance
+        : bDistance > distance
+          ? distance + 1
+          : bDistance;
     }
-    return(column[s1len]);
+  }
+
+  free(cache);
+
+  return result;
+}
+
+int main(){
+  char *str1 = "adobe";
+  char *str2 = "adoce";
+
+  int lev = levenshtein(*str1, *str2);
+  printf("%d\n", lev);
+
+  return 0;
 }

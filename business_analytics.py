@@ -28,6 +28,14 @@ companies_grouped = companies_rounds_sector.groupby(["company_name"])[['company_
 companies_rounds_sector = companies_grouped.merge(companies_rounds_sector, on=["company_name", "raised_amount_usd"], how="left")
 companies_rounds_sector.groupby('sector').count()
 
+companies_rounds_sector.to_csv("./final_data.csv", sep="|", encoding="UTF-8")
+
+
+
+companies_rounds_sector = pd.read_csv("./final_data.csv", sep='|')
+companies_rounds_sector = companies_rounds_sector.iloc[:,1:]
+companies_rounds_sector
+
 
 
 companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'consumer electronics']
