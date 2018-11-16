@@ -1,0 +1,9 @@
+-edit distance
+
+-scrapare dati crunchbase
+
+-descrizioni startups
+
+-nlp
+
+
