@@ -30,6 +30,8 @@ import ctypes
 
 #cd '/Users/lucamasserano/Desktop/BOCCONI/Business Analytics/Final project/Business_Analytics/code'
 
+#### to compile the c file ---> cc -fPIC -shared -o liblev.so levenshtein.c
+
 _lev = ctypes.CDLL('./liblev.so')
 _lev.levenshtein.argtypes = (ctypes.c_char_p, ctypes.c_char_p)
 _lev.levenshtein.restypes = ctypes.c_uint
