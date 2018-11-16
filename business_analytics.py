@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from levenshtein import *
-from collections import defaultdict
+
 
 
 direc = "/home/edoardo/Desktop/Business"
@@ -41,22 +41,25 @@ companies_rounds_sector
 
 companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']
 
-param = 1
-maximum = 0
-most_common_subs = []
-company_sub = []
-is_sorted = False
-for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']:
-    for subs in substrings(str(company),5):
-        result = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']), subs, param)
-        if len(most_common_subs) < 5 and (subs, result) not in most_common_subs:
-            most_common_subs.append((subs, result))
-        if len(most_common_subs) == 5:
-            if not is_sorted:
-                most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
-                is_sorted = True
-            if result > most_common_subs[-1][1] and (subs, result) not in most_common_subs:
-                most_common_subs[-1] = (subs, result)
-                most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
-most_common_subs
-#levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == 'healthcare']), max_sub, param)
+
+def get_most_near_substrings(sector, minimum_distance = 1, number_of_substrings = 5, len_of_substrings = 5):
+    maximum = 0
+    most_common_subs = []
+    company_sub = []
+    is_sorted = False
+    for company in companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == sector]:
+        for subs in substrings(str(company),len_of_substrings):
+            subs = subs.lower()
+            result = levenshtein_max(list(companies_rounds_sector['company_name'][companies_rounds_sector['sector'] == sector]), subs, minimum_distance)
+            if len(most_common_subs) < number_of_substrings and (subs, result) not in most_common_subs:
+                most_common_subs.append((subs, result))
+            if len(most_common_subs) == number_of_substrings:
+                if not is_sorted:
+                    most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
+                    is_sorted = True
+                if result > most_common_subs[-1][1] and (subs, result) not in most_common_subs:
+                    most_common_subs[-1] = (subs, result)
+                    most_common_subs.sort(key=lambda tup: tup[1], reverse=True)
+    return most_common_subs
+
+get_most_near_substrings('healthcare')
