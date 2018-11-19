@@ -1,9 +1,4 @@
--edit distance
+Obiettivi:
 
--scrapare dati crunchbase
-
--descrizioni startups
-
--nlp
 
 

@@ -35,4 +35,4 @@ mask = [is_online_platform(name) for name in companies_rounds_sector['company_na
 companies_rounds_sector_onl = companies_rounds_sector[mask]
 companies_rounds_sector.loc[companies_rounds_sector['company_name'].isin(companies_rounds_sector_onl['company_name']), 'sector'] = 'online platforms and marketplaces'
 
-companies_rounds_sector.to_csv("./final_data.csv", sep="|", encoding="UTF-8")
+companies_rounds_sector.to_csv(data_dir + "/final_data.csv", sep="|", encoding="UTF-8")
