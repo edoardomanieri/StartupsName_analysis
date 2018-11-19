@@ -24,7 +24,7 @@
 22|1Mind|500000.0|Social Media|500000|operating|USA|Hampton Falls|1|2011.0|online platforms and marketplaces
 23|22seeds|250000.0|Software|250000|operating|ISR|Tel Aviv|1|2010.0|technology
 24|23press|50000.0|Blogging Platforms|50000|operating|CAN|Toronto|1|2011.0|online platforms and marketplaces
-25|24Fundraiser.com|400000.0|Social Fundraising|400000|operating|USA|Willowbrook|1|2007.0|financials
+25|24Fundraiser.com|400000.0|Social Fundraising|400000|operating|USA|Willowbrook|1|2007.0|online platforms and marketplaces
 26|24PageBooks|50000.0|Software|50000|closed|USA|Rochester|1|2010.0|technology
 27|250ok|200000.0|Software|200000|operating|USA|Indianapolis|1|2012.0|technology
 28|27 Perry|118000.0|E-Commerce|118000|closed|USA|Boulder|1|2012.0|online platforms and marketplaces
@@ -296,7 +296,7 @@
 294|AlienVault|2000035.0|Security|92900035|operating|USA|San Mateo|7|2007.0|services
 295|All-Scrap|100000.0|Curated Web|100000|operating|||1|2007.0|services
 296|All4Staff|265000.0|Recruiting|265000|operating|USA|Boulder|1|2014.0|services
-297|AllSchoolStuff.com|1500000.0|Retail|1500000|operating|IND|Gurgaon|1|2011.0|other consumer retail
+297|AllSchoolStuff.com|1500000.0|Retail|1500000|operating|IND|Gurgaon|1|2011.0|online platforms and marketplaces
 298|AllSource Analysis|500000.0|Open Source|500000|operating|USA|Longmont|1|2014.0|technology
 299|AllTheRooms|1100000.0|Travel|1100000|operating|USA|New York|1|2013.0|events, travels, leisure and entertainment
 300|Allbound|30000.0|Sales and Marketing|30000|operating|USA|San Francisco|1|2014.0|sales, marketing and advertising
@@ -306,7 +306,7 @@
 304|Allocadia|1000000.0|Enterprise Software|7409591|operating|CAN|Vancouver|2|2010.0|technology
 305|Alloka|100000.0|Business Services|125000||RUS||2|2010.0|services
 306|Allovue|800000.0|Education|800000|operating|USA|Baltimore|1|2013.0|education
-307|Allthetopbananas.com|858800.0|Advertising|858800|operating|GBR|Peterborough|1|2007.0|sales, marketing and advertising
+307|Allthetopbananas.com|858800.0|Advertising|858800|operating|GBR|Peterborough|1|2007.0|online platforms and marketplaces
 308|Almashopping|100000.0|Beauty|1225000|operating|ARG|Buenos Aires|4|2012.0|events, travels, leisure and entertainment
 309|Alminder|1525000.0|Mobile|1525000|operating|USA|Palo Alto|1|2012.0|consumer electronics
 310|Aloompa|500000.0|Mobile|500000|operating|USA|Nashville|1|2009.0|consumer electronics
@@ -362,7 +362,7 @@
 360|Anonymous You|200000.0|Opinions|200000|closed|USA|Cape Coral|1|2010.0|online platforms and marketplaces
 361|Anser Innovation|1000000.0|Hardware + Software|2500000|operating|USA|Burnsville|2|2011.0|technology
 362|Answer.To|35000.0|E-Commerce|35000|operating|USA|Sunnyvale|1|2013.0|online platforms and marketplaces
-363|AnswerGo.com|10000.0|Consumer Internet|10000|operating|CAN|Markham|1|2011.0|technology
+363|AnswerGo.com|10000.0|Consumer Internet|10000|operating|CAN|Markham|1|2011.0|online platforms and marketplaces
 364|Antavo|65340.0|Sales and Marketing|65340|operating|GBR|London|1|2012.0|sales, marketing and advertising
 365|Antibe Therapeutics|55000.0|Biotechnology|3070398||CAN|Toronto|2|2010.0|technology
 366|Anvato|550000.0|Software|2550000|operating|USA|Mountain View|2|2007.0|technology
@@ -414,7 +414,7 @@
 412|Applied NanoTools|145161.0|Nanotechnology|370356|operating|CAN|Edmonton|2|2002.0|technology
 413|Applifier|2000000.0|Games|6000000|acquired|FIN|Helsinki|2|2008.0|events, travels, leisure and entertainment
 414|Applits|63000.0|Apps|63000|operating|||1|2012.0|technology
-415|ApplyInc.com|125000.0|Real Estate|125000|operating|USA|New York|1|2013.0|financials
+415|ApplyInc.com|125000.0|Real Estate|125000|operating|USA|New York|1|2013.0|online platforms and marketplaces
 416|ApplyMap|90000.0|Analytics|90000|operating|USA|Santa Monica|1|2013.0|technology
 417|Appoet|20000.0|Retail|20000|operating|||1|2012.0|other consumer retail
 418|Apps4Pro|200000.0|Tablets|200000|operating|FRA|Tours-en-vimeu|1|2012.0|consumer electronics
@@ -484,7 +484,7 @@
 482|Asker|50000.0|Mobile|50000|operating|SGP|Singapore|1|2011.0|consumer electronics
 483|AskforTask|500000.0|Services|500000|operating|CAN|Toronto|1|2012.0|services
 484|Askuity|1800000.0|Collaboration|1800000|operating|CAN|Toronto|1|2012.0|services
-485|Askvisory.com|250000.0|Consulting|250000|operating|GBR|London|1|2009.0|services
+485|Askvisory.com|250000.0|Consulting|250000|operating|GBR|London|1|2009.0|online platforms and marketplaces
 486|Aspectiva|1100000.0|Curated Web|1100000|operating|ISR|Petah Tiqva|1|2013.0|services
 487|Aspire|400000.0|Enterprise Software|400000|operating|USA|Washington|1|2013.0|technology
 488|Aspire Health|1000000.0|Health and Wellness|6500004|operating|USA|Brentwood|3|2011.0|healthcare
@@ -520,7 +520,7 @@
 518|Attolight|800000.0|Semiconductors|3089864|operating|CHE|Lausanne|3|2008.0|industrial
 519|AttorneyFee|250000.0|Big Data|250000|operating|USA|Mountain View|1|2011.0|technology
 520|Attracta|1900000.0|Content Delivery|1900000|operating|USA|Napa|1|2009.0|technology
-521|Auction.com|50000.0|Real Estate|141750000|operating|USA|Irvine|3|2007.0|financials
+521|Auction.com|50000.0|Real Estate|141750000|operating|USA|Irvine|3|2007.0|online platforms and marketplaces
 522|Audaster|30000.0|Mobile|30000|operating|UKR|Kiev|1|2013.0|consumer electronics
 523|Audio Network|470945.0|Games|470945|operating|GBR|London|4|2001.0|events, travels, leisure and entertainment
 524|AudioCaseFiles|250000.0|Legal|250000|acquired|USA|Cambridge|1|2006.0|services
@@ -628,7 +628,7 @@
 626|BadAbroad|20000.0|Travel|20000|operating|USA|Los Angeles|1|2012.0|events, travels, leisure and entertainment
 627|Badger Maps|28000.0|Software|28000|operating|USA|San Francisco|1|2012.0|technology
 628|Badgeville|250000.0|Enterprise Software|39950000|operating|USA|Redwood City|5|2010.0|technology
-629|Bahamaslocal.com|1200000.0|Advertising|1200000|operating|BHS|Nassau|1|2009.0|sales, marketing and advertising
+629|Bahamaslocal.com|1200000.0|Advertising|1200000|operating|BHS|Nassau|1|2009.0|online platforms and marketplaces
 630|BakedCode|168000.0|Software|168000|operating|USA|San Francisco|1|2010.0|technology
 631|Balakam|833000.0|Search|1079000|operating|RUS|Nizhniy Novgorod|2|2011.0|technology
 632|Ball Street|326647.0|Content|326647|operating|GBR|London|1|2012.0|events, travels, leisure and entertainment
@@ -720,7 +720,7 @@
 718|Bestowed|75000.0|Nutrition|75000|operating|USA|New York|1|2012.0|healthcare
 719|BetBox|100000.0|Sports|100000|operating|||1|2014.0|events, travels, leisure and entertainment
 720|BetKlub|126180.0|Gambling|126180|operating|FRA|Paris|1|2008.0|events, travels, leisure and entertainment
-721|BetaUsersNow.com|10000.0|Startups|10000|closed|USA|Woodside|1|2011.0|services
+721|BetaUsersNow.com|10000.0|Startups|10000|closed|USA|Woodside|1|2011.0|online platforms and marketplaces
 722|Betabrand|1300000.0|Fashion|8204000|operating|USA|San Francisco|4|2009.0|other consumer retail
 723|BethClip|12000.0|Mobile Devices|12000|operating|USA|Wilmington|1|2013.0|technology
 724|Betify|250000.0|Software|250000|operating|GBR|London|1|2013.0|technology
@@ -738,7 +738,7 @@
 736|Bevii|300000.0|Location Based Services|300000|operating|USA|Chapel Hill|1|2013.0|services
 737|Bevvy|100000.0|Coupons|100000|closed|USA|Los Angeles|1|2011.0|other consumer retail
 738|Bevy|1200000.0|Social Media|1200000|closed|USA|Seattle|1|2007.0|online platforms and marketplaces
-739|BeyondJob.com|549000.0|Curated Web|549000|operating|USA|Mountain View|1|2009.0|services
+739|BeyondJob.com|549000.0|Curated Web|549000|operating|USA|Mountain View|1|2009.0|online platforms and marketplaces
 740|Bgifty|40000.0|E-Commerce|40000|operating|||1|2013.0|online platforms and marketplaces
 741|Biart|4200000.0|3D Technology|4750000|operating|USA|Houston|2|2007.0|technology
 742|Bib + Tuck|600000.0|E-Commerce|600000|operating|USA|New York|1|2012.0|online platforms and marketplaces
@@ -847,7 +847,7 @@
 845|Bloominous|200000.0|Flowers|200000|operating|||1|2013.0|animals, plants and environment
 846|Bloomspot|2050000.0|Flash Sales|51050000|acquired|USA|San Francisco|4|2010.0|online platforms and marketplaces
 847|Blossom|40000.0|Startups|40000|operating|USA|San Francisco|1|2011.0|services
-848|BlossomandTwigs.com|500000.0|Flowers|500000|closed|GBR|London|1|2009.0|animals, plants and environment
+848|BlossomandTwigs.com|500000.0|Flowers|500000|closed|GBR|London|1|2009.0|online platforms and marketplaces
 849|Blottr|157035.0|Content|769035|operating|GBR|London|2|2010.0|events, travels, leisure and entertainment
 850|Blownaway|225000.0|Beauty|475000|operating|USA|Dallas|2|2013.0|events, travels, leisure and entertainment
 851|Bloxy|250000.0|3D|250000|operating|||1|2012.0|technology
@@ -886,7 +886,7 @@
 884|Bolongaro Trevor|1515251.0|E-Commerce|1515251|operating|GBR|London|1|2007.0|online platforms and marketplaces
 885|Bolooka.com|2414.0|E-Commerce|2414|operating|THA|Phla|1|2011.0|online platforms and marketplaces
 886|Bolster|750000.0|Financial Services|750000|operating|USA|New York|1|2012.0|financials
-887|BomTrip.com|333333.0|Travel|333333|operating|BRA|Campinas|1|2014.0|events, travels, leisure and entertainment
+887|BomTrip.com|333333.0|Travel|333333|operating|BRA|Campinas|1|2014.0|online platforms and marketplaces
 888|BonaYou|674600.0|Social Media|3111841|operating|DEU|Munich|4|2010.0|online platforms and marketplaces
 889|Bonafide|100000.0|Bitcoin|100000|operating|USA|Rochester|1|2013.0|financials
 890|Bonaverde|1300000.0|Sustainability|3445440|operating|DEU|Berlin|3|2011.0|animals, plants and environment
@@ -899,7 +899,7 @@
 897|Book&Table|18000.0|Marketplaces|18000|operating|||1|2013.0|online platforms and marketplaces
 898|BookBag|10000.0|Textbooks|10000|operating|USA|Chico|1|2012.0|events, travels, leisure and entertainment
 899|BookFresh|500000.0|Curated Web|500000|acquired|USA|San Francisco|1|2007.0|services
-900|BookLending.com|12500.0|Curated Web|12500|operating|||1|2011.0|services
+900|BookLending.com|12500.0|Curated Web|12500|operating|||1|2011.0|online platforms and marketplaces
 901|BookNow|75000.0|Social Bookmarking|75000|operating|KEN|Nairobi|1|2011.0|online platforms and marketplaces
 902|BookShout!|750000.0|Software|8750000|operating|USA|Plano|3|2011.0|technology
 903|BookTour|350000.0|Databases|350000|closed|USA|Lucerne Valley|1|2009.0|technology
@@ -908,7 +908,7 @@
 906|BookitNow!|260000.0|Apps|260000|operating|DEU|Berlin|1|2011.0|technology
 907|Bookitit|167258.0|Coupons|167258|operating|ESP|Paterna|1|2012.0|other consumer retail
 908|Booklr|500000.0|Analytics|500000|acquired|||1|2010.0|technology
-909|Boomerang.com|560000.0|Facebook Applications|1560000|operating|USA|Chicago|2|2009.0|technology
+909|Boomerang.com|560000.0|Facebook Applications|1560000|operating|USA|Chicago|2|2009.0|online platforms and marketplaces
 910|Boomr|120000.0|Small and Medium Businesses|120000|operating|USA|San Francisco|1|2013.0|industrial
 911|Boomtown!|3000000.0|Tech Field Support|3000000|operating|USA|Belvedere Tiburon|2|2014.0|technology
 912|Boonle|100000.0|Freelancers|100000|operating|USA|Rochester|1|2014.0|services
@@ -946,7 +946,7 @@
 944|BrainStorm Cell Therapeutics|206910.0|Biotechnology|18139599|operating|USA|New York|5|2004.0|technology
 945|Brainscape|2000000.0|Education|2000000|operating|||1|2011.0|education
 946|Brainwave Education|40000.0|Education|40000|operating|IND|Bangalore|1|2012.0|education
-947|BrakeQuotes.com|50000.0|Automotive|50000|operating|USA|Sanibel|1|2014.0|automotive
+947|BrakeQuotes.com|50000.0|Automotive|50000|operating|USA|Sanibel|1|2014.0|online platforms and marketplaces
 948|Branch|2000000.0|Messaging|2000000|acquired|USA|New York|1|2011.0|online platforms and marketplaces
 949|Branch Metrics|3000000.0|Software|3000000|operating|USA|Palo Alto|1|2014.0|technology
 950|Brand Embassy|1000000.0|Software|1000000|operating|GBR|London|1|2011.0|technology
@@ -968,13 +968,13 @@
 966|Brazzlebox|1300000.0|Social Network Media|1300000|operating|USA|Syracuse|1|2012.0|online platforms and marketplaces
 967|Breadcrumbtracking|40000.0|Emerging Markets|40000|operating|CHL|Santiago|2|2012.0|technology
 968|Breaker|2000000.0|Photography|2000000|operating|JPN|Tokyo|2|2013.0|events, travels, leisure and entertainment
-969|Breakmoon.com|200000.0|Nightlife|200000|operating|ESP|Valencia|1|2011.0|events, travels, leisure and entertainment
+969|Breakmoon.com|200000.0|Nightlife|200000|operating|ESP|Valencia|1|2011.0|online platforms and marketplaces
 970|BreathalEyes|30000.0|Technology|30000|operating|USA|Nashville|1|2011.0|technology
 971|Breezeworks|2000000.0|Local|7000000|operating|USA|San Francisco|2|2012.0|other
 972|Brevado|50000.0|Customer Service|50000|operating|USA|Durham|1|2013.0|services
 973|BrickTrends|1000000.0|Advertising|1000000|operating|USA|Austin|1|2013.0|sales, marketing and advertising
 974|Brickx|931087.0|Real Estate|931087|operating|AUS|Sydney|1|2014.0|financials
-975|Bridesandlovers.com|150000.0|Online Dating|150000|operating|USA|St. Petersburg|1|2009.0|events, travels, leisure and entertainment
+975|Bridesandlovers.com|150000.0|Online Dating|150000|operating|USA|St. Petersburg|1|2009.0|online platforms and marketplaces
 976|Bridge U.S.|800000.0|Technology|800000|operating|USA|San Francisco|1|2012.0|technology
 977|BridgeCrest Medical|30000.0|Mobile|30000|operating|USA|San Diego|2|2013.0|consumer electronics
 978|BrieFix|21189.0|Software|21189|closed|||1|2011.0|technology
@@ -1029,7 +1029,7 @@
 1027|Burt|3000000.0|Business Intelligence|8500000|operating|SWE|Gothenburg|3|2009.0|technology
 1028|Busbud|1000000.0|Software|10000000|operating|CAN|Montréal|2|2011.0|technology
 1029|Buscapé|500000.0|E-Commerce|6500000|acquired|BRA|São Paulo|2|1999.0|online platforms and marketplaces
-1030|Buscatucancha.com|25000.0|Sports|25000|closed|||1|2010.0|events, travels, leisure and entertainment
+1030|Buscatucancha.com|25000.0|Sports|25000|closed|||1|2010.0|online platforms and marketplaces
 1031|BuscoTurno|40000.0|Dental|40000|operating|ARG|Buenos Aires|1|2011.0|healthcare
 1032|Business Exchange|135000.0|Curated Web|135000|operating|USA|Palo Alto|1|2012.0|services
 1033|Business Insider|900000.0|News|30600000|operating|USA|New York|6|2007.0|events, travels, leisure and entertainment
@@ -1054,7 +1054,7 @@
 1052|Buzzoole|231588.0|Advertising|231588|operating|ITA|Napoli|1|2013.0|sales, marketing and advertising
 1053|Buzztala|800000.0|Search Marketing|800000|operating|||1|2013.0|sales, marketing and advertising
 1054|Bvents|200000.0|Curated Web|200000|operating|ISR|Tel Aviv|1|2009.0|services
-1055|ByHours.com|771960.0|In-Flight Entertainment|4371960|operating|ESP|Barcelona|2|2012.0|events, travels, leisure and entertainment
+1055|ByHours.com|771960.0|In-Flight Entertainment|4371960|operating|ESP|Barcelona|2|2012.0|online platforms and marketplaces
 1056|Byliner|1000000.0|Publishing|1000000|acquired|USA|San Francisco|2|2011.0|sales, marketing and advertising
 1057|Bypass Mobile|600000.0|Mobile|5850000|operating|USA|Austin|3|2010.0|consumer electronics
 1058|ByteLight|1250000.0|Mobile|4250000|operating|USA|Boston|2|2011.0|consumer electronics
@@ -1071,7 +1071,7 @@
 1069|CBTec|276375.0|Mobile|276375|operating|FIN|Helsinki|1|2012.0|consumer electronics
 1070|CENTERSONIC|27181.0|Home Automation|27181|operating|DEU|Wetzlar|1|2012.0|technology
 1071|CENTRI Technology|1000000.0|Mobile|26835204|operating|USA|Seattle|6|2009.0|consumer electronics
-1072|CFO.com|600000.0|Finance|600000|operating|USA|New York|1|2012.0|financials
+1072|CFO.com|600000.0|Finance|600000|operating|USA|New York|1|2012.0|online platforms and marketplaces
 1073|CHARGED.fm|1000000.0|Ticketing|1000000|operating|USA|Brooklyn|1|2008.0|services
 1074|CHEQROOM|262634.0|Intellectual Asset Management|262634|operating|BEL|Brussels|1|2013.0|financials
 1075|CHOOMOGO|15000.0|Mobile|15000|closed|USA|Memphis|1|2011.0|consumer electronics
@@ -1188,7 +1188,7 @@
 1186|Cargobase|100000.0|Logistics|450000|operating|SGP|Singapore|2|2013.0|services
 1187|Cargomatic|2600000.0|Logistics|2600000|operating|USA|Venice|1|2013.0|services
 1188|Carhood|150000.0|Parking|150000|operating|AUS|Melbourne|1|2014.0|services
-1189|Carhoots.com|240000.0|Automotive|240000|operating|USA|San Francisco|1|2012.0|automotive
+1189|Carhoots.com|240000.0|Automotive|240000|operating|USA|San Francisco|1|2012.0|online platforms and marketplaces
 1190|Carmenta Bioscience|2000000.0|Biotechnology|2000000|operating|USA|Palo Alto|1|2012.0|technology
 1191|Carmolex|600000.0|Biotechnology|1600000|operating|USA|Pittsburgh|2|2012.0|technology
 1192|Carnet de Mode|125900.0|Marketplaces|1625900||FRA|Paris|2|2011.0|online platforms and marketplaces
@@ -1202,7 +1202,7 @@
 1200|Cartavi|1230000.0|File Sharing|1230000|acquired|USA|Naperville|1|2009.0|technology
 1201|Carte Blanche|40000.0|Fashion|40000|operating|USA|New York|1|2013.0|other consumer retail
 1202|Cartup Commerce|250000.0|Web Development|250000|operating|USA|San Francisco|1|2010.0|technology
-1203|CasaSwap.com|80000.0|Real Estate|80000|operating|DNK|Copenhagen|1|2004.0|financials
+1203|CasaSwap.com|80000.0|Real Estate|80000|operating|DNK|Copenhagen|1|2004.0|online platforms and marketplaces
 1204|CaseRails|20000.0|Document Management|570000|operating|USA|New York|2|2013.0|services
 1205|Casengo|2000000.0|Software|2000000|operating|NLD|Amsterdam|1|2011.0|technology
 1206|Casetext|1800000.0|Legal|1800000|operating|USA|Palo Alto|1|2013.0|services
@@ -1224,7 +1224,7 @@
 1222|Catalyze|20000.0|Cloud Infrastructure|2045000|operating|USA|Madison|2|2013.0|technology
 1223|Catapult|200000.0|Web Development|200000|operating|ARE|Dubai|1|2014.0|technology
 1224|Catapulter|20000.0|Services|20000|operating|||1|2010.0|services
-1225|Catch.com|2300000.0|Mobile|9300000|acquired|USA|San Francisco|2|2008.0|consumer electronics
+1225|Catch.com|2300000.0|Mobile|9300000|acquired|USA|San Francisco|2|2008.0|online platforms and marketplaces
 1226|CaterCow|25000.0|Specialty Foods|25000|operating|USA|New York|1|2012.0|food and beverage
 1227|Catmoji|40000.0|Social Media|40000|operating|MYS|Penang|1|2012.0|online platforms and marketplaces
 1228|CausePlay|35000.0|Advertising|35000|operating|USA|Manhattan Beach|1|2010.0|sales, marketing and advertising
@@ -1234,7 +1234,7 @@
 1232|Cazoomi|250000.0|Enterprise Software|250000|operating|USA|San Francisco|1|2009.0|technology
 1233|CelePost|70000.0|Blogging Platforms|70000|operating|GBR|London|1|2009.0|online platforms and marketplaces
 1234|CelebCalls|1350000.0|Messaging|3135780|operating|USA|Louisville|2|2010.0|online platforms and marketplaces
-1235|Celebrations.com|500000.0|Curated Web|4050000|operating|USA|New York|3|2007.0|services
+1235|Celebrations.com|500000.0|Curated Web|4050000|operating|USA|New York|3|2007.0|online platforms and marketplaces
 1236|Celery|2000000.0|E-Commerce|2000000|operating|USA|San Francisco|1|2013.0|online platforms and marketplaces
 1237|Cell Again|1500000.0|Clean Technology|2500000|operating|USA|Draper|2|2006.0|technology
 1238|Cell Therapy|40000.0|Health and Wellness|40000|operating|CHL|Santiago|1|2013.0|healthcare
@@ -1363,9 +1363,9 @@
 1361|Classiphix|15000.0|Classifieds|15000|closed|USA|Toledo|1|2009.0|services
 1362|Classiqs|32842.0|Curated Web|32842|operating|DEU|Berlin|1|2013.0|services
 1363|Clay.io|550000.0|Mobile|550000|operating|USA|San Francisco|1|2012.0|consumer electronics
-1364|ClaytonStress.com|75000.0|Health and Wellness|75000|operating|USA|Saint Louis|1|2007.0|healthcare
+1364|ClaytonStress.com|75000.0|Health and Wellness|75000|operating|USA|Saint Louis|1|2007.0|online platforms and marketplaces
 1365|Clean Plates|700000.0|News|700000|operating|USA|New York|1|2011.0|events, travels, leisure and entertainment
-1366|CleanAgents.com|198260.0|Local Businesses|198260|operating|DEU|Berlin|1|2013.0|industrial
+1366|CleanAgents.com|198260.0|Local Businesses|198260|operating|DEU|Berlin|1|2013.0|online platforms and marketplaces
 1367|CleanApp|5300.0|Environmental Innovation|5300|closed|USA|Memphis|1|2013.0|animals, plants and environment
 1368|CleanBeeBaby|100000.0|Consumers|100000|operating|||1|2010.0|other consumer retail
 1369|CleanEdison|600000.0|Education|600000|operating|USA|New York|1|2008.0|education
@@ -1444,7 +1444,7 @@
 1442|Cloze|1200000.0|Social Media|1200000|operating|USA|Somerville|1|2012.0|online platforms and marketplaces
 1443|ClrTouch|20000.0|Tablets|20000|closed|USA|Brooklyn|1|2010.0|consumer electronics
 1444|Club Emprende|40000.0|Social Media|40000|operating|ESP|Valladolid|1|2009.0|online platforms and marketplaces
-1445|ClubJumpr.com|120000.0|Hospitality|120000|operating|USA|Mill Valley|1|2008.0|no-profit and government
+1445|ClubJumpr.com|120000.0|Hospitality|120000|operating|USA|Mill Valley|1|2008.0|online platforms and marketplaces
 1446|ClubKviar|900620.0|Hospitality|1528408|operating|ESP|Madrid|2|2012.0|no-profit and government
 1447|Cluey|1000000.0|Hospitality|1000000|operating|IRL|Dublin|1|2011.0|no-profit and government
 1448|Cluster HQ|1000000.0|Enterprise Software|1000000|operating|GBR|Bristol|2|2008.0|technology
@@ -1524,7 +1524,7 @@
 1522|Collaborative Software Initiative|1000000.0|Software|8795510|operating|USA|Portland|4|2007.0|technology
 1523|Collaborne|1000000.0|Software|1000000|operating|NLD|Amsterdam|1|2012.0|technology
 1524|Collect|298342.0|Marketing Automation|1251370|operating|NZL|Wellington|2|2012.0|sales, marketing and advertising
-1525|Collect.it|25000.0|Mobile|25000|operating|USA|Scottsdale|1|2012.0|consumer electronics
+1525|Collect.it|25000.0|Mobile|25000|operating|USA|Scottsdale|1|2012.0|online platforms and marketplaces
 1526|Collected Inc.|25000.0|Productivity Software|125000|operating|USA|Pittsburgh|2|2013.0|technology
 1527|Collective IP|1049999.0|Marketplaces|3549999|operating|USA|Denver|2|2011.0|online platforms and marketplaces
 1528|CollegeFanz|500000.0|Colleges|2500000|operating|||2|2007.0|education
@@ -1549,13 +1549,13 @@
 1547|Commissioner|20000.0|Soccer|50000|operating|||2|2014.0|events, travels, leisure and entertainment
 1548|CommitChange|700000.0|Nonprofits|987000|operating|USA|San Francisco|2|2012.0|no-profit and government
 1549|CommonKey|40000.0|Security|40000|operating|USA|New York|1|2012.0|services
-1550|Commun.it|100000.0|B2B|100000|operating|ISR||1|2012.0|industrial
+1550|Commun.it|100000.0|B2B|100000|operating|ISR||1|2012.0|online platforms and marketplaces
 1551|Community Infopoint|29222.0|Digital Signage|29222|operating|GBR||1|2009.0|sales, marketing and advertising
 1552|Community Sourced Capital|17000.0|Finance Technology|17000|operating|USA|Seattle|1|2012.0|financials
 1553|CommunityForce|745000.0|Enterprise Software|745000|operating|USA|Reston|1|2012.0|technology
-1554|Comparabien.com|40000.0|Finance|40000|operating|DZA||1|2010.0|financials
+1554|Comparabien.com|40000.0|Finance|40000|operating|DZA||1|2010.0|online platforms and marketplaces
 1555|CompareAway|1003681.0|Travel|1003681|operating|GBR|Durham|1|2009.0|events, travels, leisure and entertainment
-1556|Comparisign.com|40000.0|Enterprise Software|40000|operating|USA|Carthage|1|2013.0|technology
+1556|Comparisign.com|40000.0|Enterprise Software|40000|operating|USA|Carthage|1|2013.0|online platforms and marketplaces
 1557|Compass|3000000.0|Marketplaces|0|operating|USA|Woodland Hills|1|2010.0|online platforms and marketplaces
 1558|Compass Quality Insight Inc.|2000000.0|Software|2000000|closed|USA|San Francisco|1|2012.0|technology
 1559|CompassMD|270000.0|Health and Wellness|270000|operating|USA|Cleveland|1|2012.0|healthcare
@@ -1586,9 +1586,9 @@
 1584|Conjecta|100000.0|Finance|100000|operating|USA|Charlotte|1|2011.0|financials
 1585|ConnXus|1700000.0|Curated Web|1700000|operating|USA|Mason|2|2010.0|services
 1586|Connect Financial Software Solutions|500000.0|Software|3325000||USA|Murray|4|2007.0|technology
-1587|ConnectNigeria.com|130000.0|Search|130000|operating|NGA|Lagos|1|2008.0|technology
+1587|ConnectNigeria.com|130000.0|Search|130000|operating|NGA|Lagos|1|2008.0|online platforms and marketplaces
 1588|ConnectedHealth|400000.0|Mobile|400000|operating|SGP|Singapore|1|2010.0|consumer electronics
-1589|Connectv.com|1400000.0|Games|2927500|operating|USA|Emeryville|2|2010.0|events, travels, leisure and entertainment
+1589|Connectv.com|1400000.0|Games|2927500|operating|USA|Emeryville|2|2010.0|online platforms and marketplaces
 1590|Connexity|3000000.0|Advertising|5000000|acquired|USA|Ventura|3|2011.0|sales, marketing and advertising
 1591|Connoshoer|100000.0|Mobile|100000|operating|||1|2012.0|consumer electronics
 1592|Conscious Box|1384000.0|Natural Resources|1384000|operating|USA|Portland|1|2011.0|primary sector
@@ -1687,7 +1687,7 @@
 1685|Creative Market|1000000.0|Design|2300000|acquired|USA|San Francisco|2|2011.0|services
 1686|CreativeWorx|400000.0|Software|400000|operating|USA|New York|1|2011.0|technology
 1687|Credit Coach|100000.0|Software|1000000|closed|USA|Kaukauna|2|2008.0|technology
-1688|CreditPing.com|580000.0|Credit|580000|operating|USA|Los Angeles|1|2009.0|financials
+1688|CreditPing.com|580000.0|Credit|580000|operating|USA|Los Angeles|1|2009.0|online platforms and marketplaces
 1689|Creisoft, Inc.|170000.0|Real Estate|245000|operating|USA|Charlotte|2|2012.0|financials
 1690|Crescent Unmanned Systems|250000.0|Security|250000|operating|USA|New Orleans|1|2011.0|services
 1691|Crestone Telecom|135000.0|Mobile|135000|operating|USA|Crestone|1|2011.0|consumer electronics
@@ -1699,7 +1699,7 @@
 1697|Cristal Studios|429420.0|Games|429420|operating|MLT|Valletta|1|2009.0|events, travels, leisure and entertainment
 1698|Criterion Security|250000.0|Security|250000|operating|USA|Nashville|1|2010.0|services
 1699|Critique^It|600000.0|Education|600000|operating|USA|Long Beach|1|2008.0|education
-1700|Croak.it|40000.0|Curated Web|40000|operating|USA|Philadelphia|1|2012.0|services
+1700|Croak.it|40000.0|Curated Web|40000|operating|USA|Philadelphia|1|2012.0|online platforms and marketplaces
 1701|Crono|25000.0|Software|25000|closed|USA|Pittsburgh|1|2008.0|technology
 1702|Cronote|11000.0|Messaging|11000|operating|USA|Fountain Valley|1|2010.0|online platforms and marketplaces
 1703|CropUp|1000000.0|Payments|1000000|operating|USA|Brooklyn|1|2012.0|financials
@@ -1729,7 +1729,7 @@
 1727|Crowdbase|650000.0|Crowdsourcing|650000|operating|CAN|Quebec|1|2011.0|online platforms and marketplaces
 1728|Crowdnetic|1900000.0|Finance|1900000|operating|USA|New York|1|2011.0|financials
 1729|Crowdpac|2100000.0|Big Data|2100000|operating|USA|Menlo Park|1|2013.0|technology
-1730|Crowdsourcing.org|250000.0|Finance|250000|operating|USA|Los Angeles|1|2010.0|financials
+1730|Crowdsourcing.org|250000.0|Finance|250000|operating|USA|Los Angeles|1|2010.0|online platforms and marketplaces
 1731|Crowdtap|3000000.0|Social Media|15000000|operating|USA|New York|3|2009.0|online platforms and marketplaces
 1732|CrowdyHouse|70000.0|Flash Sales|70000|operating|NLD|Amsterdam|1|2013.0|online platforms and marketplaces
 1733|Crowdzu|35000.0|Fashion|35000|operating|USA|New York|1|2012.0|other consumer retail
@@ -1782,7 +1782,7 @@
 1780|CustEx|10000.0|Marketplaces|10000|operating|USA|Palo Alto|1|2012.0|online platforms and marketplaces
 1781|CustomInk|600000.0|Fashion|40600000|operating|USA|Fairfax|2|2000.0|other consumer retail
 1782|CustomMade|400000.0|E-Commerce|25650000|operating|USA|Cambridge|5|1996.0|online platforms and marketplaces
-1783|CustomerAdvocacy.com|500000.0|Software|500000|operating|GBR|Edinburgh|1|2010.0|technology
+1783|CustomerAdvocacy.com|500000.0|Software|500000|operating|GBR|Edinburgh|1|2010.0|online platforms and marketplaces
 1784|Cutanea Life Sciences|450000.0|Biotechnology|450000|operating|USA|Wayne|1|2005.0|technology
 1785|Cutefund|29833.0|All Markets|29833|operating|||1|2010.0|other consumer retail
 1786|Cutetown|150000.0|Maps|150000|operating|RUS|Perm|1|2011.0|other
@@ -1839,7 +1839,7 @@
 1837|DUHEM|50000.0|Social Commerce|50000|operating|PER|Lima|1|2012.0|online platforms and marketplaces
 1838|DUQI.COM|100000.0|Curated Web|100000|closed|CHN|Shanghai|1|2010.0|services
 1839|DaWanda|63621.0|Social Network Media|5260821|operating|DEU|Berlin|4|2006.0|online platforms and marketplaces
-1840|DadaJOE.com|100000.0|Payments|100000|operating|USA|Wilmington|1|2013.0|financials
+1840|DadaJOE.com|100000.0|Payments|100000|operating|USA|Wilmington|1|2013.0|online platforms and marketplaces
 1841|DaggerFoil Group|100000.0|Business Services|100000|operating|USA|San Francisco|1|2013.0|services
 1842|Dagne Dover|1300000.0|Fashion|1300000|operating|USA|New York|2|2012.0|other consumer retail
 1843|Daily Secret|1850000.0|Content|4350000|operating|USA|New York|3|2010.0|events, travels, leisure and entertainment
@@ -1898,7 +1898,7 @@
 1896|DealPing|50000.0|Mobile|50000|operating|SGP|Singapore|1|2010.0|consumer electronics
 1897|DealTraction|500000.0|Software|500000|operating|USA|Menlo Park|1|2010.0|technology
 1898|Dealflicks|1700000.0|Entertainment|1700000|operating|USA|Oakland|3|2011.0|events, travels, leisure and entertainment
-1899|Dealflow.com|1000000.0|Finance|1000000|operating|||1|2001.0|financials
+1899|Dealflow.com|1000000.0|Finance|1000000|operating|||1|2001.0|online platforms and marketplaces
 1900|DealitLive.com|300000.0|Online Shopping|300000|closed|USA|Fair Lawn|1|2008.0|online platforms and marketplaces
 1901|Dealstruck|1200000.0|Marketplaces|1200000|operating|USA|Carlsbad|2|2013.0|online platforms and marketplaces
 1902|Deanslist|94000.0|Curated Web|107976|operating|GBR|London|2|2012.0|services
@@ -1936,12 +1936,12 @@
 1934|Demeter Power Group, Inc.|500000.0|Clean Technology|500000|operating|USA|West Palm Beach|1|2011.0|technology
 1935|Demeure|4000000.0|Marketplaces|8000000|operating|CAN|Waterloo|2|2009.0|online platforms and marketplaces
 1936|DemoHire|50000.0|Video|50000|operating|USA|Miami|1|2012.0|technology
-1937|Democracy.com|2000000.0|Politics|2000000|operating|USA|New York|1|2012.0|no-profit and government
+1937|Democracy.com|2000000.0|Politics|2000000|operating|USA|New York|1|2012.0|online platforms and marketplaces
 1938|Democravise|40000.0|Enterprise Software|40000|operating|CAN|Hamilton|1|2012.0|technology
 1939|Dentalink|40000.0|Software|290000|operating|CHL|Santiago|2|2010.0|technology
 1940|Departing|1250000.0|Funeral Industry|1250000|operating|USA|Irving|1|2013.0|services
 1941|Dering Hall|1400000.0|Design|1400000|operating|USA|New York|1|2011.0|services
-1942|DesRueda.com|8000.0|Automotive|8000|operating|||1|2014.0|automotive
+1942|DesRueda.com|8000.0|Automotive|8000|operating|||1|2014.0|online platforms and marketplaces
 1943|Descargas Online|543270.0|Games|543270|operating|ESP|Barcelona|1|2011.0|events, travels, leisure and entertainment
 1944|Descomplica|60000.0|Education|7060000|operating|BRA|Rio De Janeiro|3|2011.0|education
 1945|DesignFace IT|3766.0|Web Design|3766|operating|ROM|Targu Jiu|2|2013.0|technology
@@ -1971,7 +1971,7 @@
 1969|Dial a Dealer|140000.0|Gambling|140000|closed|GBR|London|1|2006.0|events, travels, leisure and entertainment
 1970|Dialogfeed|303064.0|Social Network Media|1007464|operating|BEL|Brussels|2|2008.0|online platforms and marketplaces
 1971|Diamond Kinetics|1100000.0|Sensors|1100000|operating|USA|Pittsburgh|1|2012.0|technology
-1972|Diary.com|1200000.0|Curated Web|1200000|operating|GBR|London|1|2008.0|services
+1972|Diary.com|1200000.0|Curated Web|1200000|operating|GBR|London|1|2008.0|online platforms and marketplaces
 1973|Diavibe|20000.0|Medical Devices|20000|closed|USA|Providence|1|2010.0|healthcare
 1974|Dibbz|161671.0|Monetization|161671|operating|GBR|London|2|2013.0|financials
 1975|Dick or Bro|150000.0|Celebrity|150000|closed|||1|2012.0|events, travels, leisure and entertainment
@@ -2054,13 +2054,13 @@
 2052|DocuTAP|1400000.0|Health Care|28301362|operating|USA|Sioux Falls|4|2000.0|healthcare
 2053|Documaster|700000.0|Software Compliance|700000|operating|NOR|Oslo|1|2014.0|technology
 2054|Docurated|1600000.0|B2B|5350000|operating|USA|New York|2|2012.0|industrial
-2055|DoesThatMakeSense.com|250000.0|Colleges|250000|operating|USA|Great Neck|1|2009.0|education
+2055|DoesThatMakeSense.com|250000.0|Colleges|250000|operating|USA|Great Neck|1|2009.0|online platforms and marketplaces
 2056|DokDok|350721.0|File Sharing|535726|acquired|CAN|Montréal|2|2009.0|technology
 2057|Dokkankom|30000.0|E-Commerce|30000|operating|USA|New York|1|2011.0|online platforms and marketplaces
-2058|Doktorburada.com|1000000.0|Doctors|1000000|operating|TUR|Istanbul|1|2013.0|healthcare
+2058|Doktorburada.com|1000000.0|Doctors|1000000|operating|TUR|Istanbul|1|2013.0|online platforms and marketplaces
 2059|Dollar Shave Club|1000000.0|E-Commerce|72800000|operating|USA|Los Angeles|4|2011.0|online platforms and marketplaces
 2060|Dolls Kill|900000.0|E-Commerce|5900000|operating|USA|San Francisco|2|2012.0|online platforms and marketplaces
-2061|Domainindex.com|250000.0|Registrars|250000|operating|LUX|Leudelange|1|2011.0|financials
+2061|Domainindex.com|250000.0|Registrars|250000|operating|LUX|Leudelange|1|2011.0|online platforms and marketplaces
 2062|Dominico|500000.0|Religion|500000|operating|ITA|Rome|1|2014.0|no-profit and government
 2063|Domino Street|30000.0|Restaurants|75000|operating|USA|Brooklyn|3|2011.0|events, travels, leisure and entertainment
 2064|Domo|650000.0|Web Development|248650000|operating|USA|American Fork|7|2010.0|technology
@@ -2100,7 +2100,7 @@
 2098|Dragonfly List|20000.0|Freelancers|20000|closed|AUS|Melbourne|1|2012.0|services
 2099|DrawQuest|625000.0|Games|3625000|closed|||2|2010.0|events, travels, leisure and entertainment
 2100|Dream Village|10000.0|Enterprises|10000|closed|||1|2008.0|industrial
-2101|DreamCloset.com|100000.0|Fashion|100000|operating|USA|Los Angeles|1|2012.0|other consumer retail
+2101|DreamCloset.com|100000.0|Fashion|100000|operating|USA|Los Angeles|1|2012.0|online platforms and marketplaces
 2102|DreamNotes|24000.0|Social Media|24000|operating|ARE|Dubai|1|2013.0|online platforms and marketplaces
 2103|Dreamitize|40000.0|Education|40000|operating|USA|New York|1|2011.0|education
 2104|Dreamsoft Technologies|100000.0|Peer-to-Peer|100000|operating|GBR||1|2007.0|online platforms and marketplaces
@@ -2137,7 +2137,7 @@
 2135|Dynamo Micropower|50000.0|Hardware + Software|695801|operating|USA|Boston|3|2011.0|technology
 2136|Dynamo Plastics|50000.0|Clean Technology|50000|operating|USA|Seattle|1|2013.0|technology
 2137|Dónde|1000000.0|Mobile|1165000|operating|USA|Cincinnati|2|2013.0|consumer electronics
-2138|E2america.com|79725.0|Software|79725|operating|USA|Kure Beach|1|2009.0|technology
+2138|E2america.com|79725.0|Software|79725|operating|USA|Kure Beach|1|2009.0|online platforms and marketplaces
 2139|EARTHTORY|150000.0|Travel|150000|operating|KOR|Seoul|1|2012.0|events, travels, leisure and entertainment
 2140|EAT Club|1500000.0|E-Commerce|16500000|operating|USA|Palo Alto|3|2010.0|online platforms and marketplaces
 2141|EBIQUOUS|40000.0|Software|40000|operating|CHL|Santiago|1|2011.0|technology
@@ -2199,7 +2199,7 @@
 2197|EdCaliber|800000.0|Education|800000|operating|USA|Portland|1|2009.0|education
 2198|EdSurge|400000.0|Market Research|2860000|operating|USA|Burlingame|3|2011.0|sales, marketing and advertising
 2199|Eden Therapeutics|1000000.0|Biotechnology|1000000|operating|USA|Houston|1|2007.0|technology
-2200|Edenbee.com|329250.0|Web Development|329250|closed|IRL|Dublin|1|2007.0|technology
+2200|Edenbee.com|329250.0|Web Development|329250|closed|IRL|Dublin|1|2007.0|online platforms and marketplaces
 2201|Edevate|170000.0|Education|300000|operating|USA|Atlanta|3|2013.0|education
 2202|Edgar|35000.0|Content Creators|70000|operating|SVN|Maribor|2|2013.0|events, travels, leisure and entertainment
 2203|EdgeSpring|1700000.0|Analytics|12700000|acquired|USA|San Mateo|2|2010.0|technology
@@ -2235,7 +2235,7 @@
 2233|El Teatro|40000.0|Games|40000|closed|USA|Los Angeles|1|2010.0|events, travels, leisure and entertainment
 2234|Elastagen|2000000.0|Biotechnology|2000000|operating|USA|Eveleth|1|2003.0|technology
 2235|Elastera|350000.0|Software|350000|operating|GBR|London|1|2013.0|technology
-2236|ElderSense.com|50000.0|Information Services|50000|operating|||1|2012.0|services
+2236|ElderSense.com|50000.0|Information Services|50000|operating|||1|2012.0|online platforms and marketplaces
 2237|Elecar|10000.0|Solar|10000|closed|||1|2009.0|technology
 2238|ElectroCore|500000.0|Health Care|50500000|operating|USA|Morris Plains|2|2005.0|healthcare
 2239|Electronic Compute Systems|385000.0|Hardware|385000|operating|USA|Towson|1|1997.0|technology
@@ -2282,10 +2282,10 @@
 2280|Endorphin|250000.0|Enterprise Software|250000|operating|USA|San Francisco|1|2012.0|technology
 2281|Endurance Lending Network|1500000.0|Finance Technology|1500000|acquired|USA|San Francisco|1|2011.0|financials
 2282|Energia|635820.0|Utilities|635820|operating|||1|1999.0|services
-2283|Energiachiara.it|150000.0|Consulting|150000|operating|ITA|Florence|1|2011.0|services
+2283|Energiachiara.it|150000.0|Consulting|150000|operating|ITA|Florence|1|2011.0|online platforms and marketplaces
 2284|Energy Harvesters LLC|100000.0|Clean Technology|100000|operating|USA|Somerville|1|2011.0|technology
 2285|EnergyChest|100000.0|E-Commerce|100000|operating|USA|San Francisco|1|2013.0|online platforms and marketplaces
-2286|EnergySavvy.com|580000.0|Software|14193058|operating|USA|Seattle|6|2008.0|technology
+2286|EnergySavvy.com|580000.0|Software|14193058|operating|USA|Seattle|6|2008.0|online platforms and marketplaces
 2287|EnergyWeb Solutions|100000.0|E-Commerce|100000|operating|USA|Allentown|1|2004.0|online platforms and marketplaces
 2288|Enervee|1700000.0|Clean Energy|1700000|operating|USA|Santa Monica|3|2012.0|technology
 2289|Enflick|1000000.0|Mobile|1000000|operating|CAN|Waterloo|1|2009.0|consumer electronics
@@ -2316,7 +2316,7 @@
 2314|Entrepreneurs in Emerging Markets|2000.0|Startups|2000|operating|FRA|Paris|1|2013.0|services
 2315|Entrustet|40000.0|Curated Web|40000|acquired|USA|Madison|1|2008.0|services
 2316|Enubila|150000.0|E-Commerce|150000|operating|||1|2013.0|online platforms and marketplaces
-2317|Enuygun.com|140000.0|Insurance|539450|operating|TUR|Istanbul|2|2008.0|financials
+2317|Enuygun.com|140000.0|Insurance|539450|operating|TUR|Istanbul|2|2008.0|online platforms and marketplaces
 2318|Envia Lá|40000.0|Games|40000|operating|BRA|São Paulo|1|2012.0|events, travels, leisure and entertainment
 2319|Envisage Technologies|2500000.0|Software|2500000|operating|USA|Bloomington|1|2001.0|technology
 2320|Envoy|1500000.0|Software|1500000|operating|USA|San Francisco|1|2013.0|technology
@@ -2342,7 +2342,7 @@
 2340|Ernie's|15000.0|Sales and Marketing|15000|closed|||2|2011.0|sales, marketing and advertising
 2341|Errund|75000.0|Curated Web|75000|operating|USA|Cambridge|1|2010.0|services
 2342|EsLife|626887.0|Service Providers|893514|operating|ESP|Valencia|3|2012.0|services
-2343|Escapeer.com|250000.0|Curated Web|250000|operating|USA|New York|1|2008.0|services
+2343|Escapeer.com|250000.0|Curated Web|250000|operating|USA|New York|1|2008.0|online platforms and marketplaces
 2344|Espresso Logic|1600000.0|Software|1600000|operating|USA|Santa Clara|1|2013.0|technology
 2345|Essential Viewing|2180175.0|Enterprise Software|2180175|acquired|GBR|Glasgow|1|1999.0|technology
 2346|Estate Assist|2300000.0|Consumers|2300000|operating|USA|San Francisco|1|2014.0|other consumer retail
@@ -2421,7 +2421,7 @@
 2419|Executive Intermediary|1000.0|Venture Capital|1000|closed|USA|New York|1|2007.0|financials
 2420|Exelis|2000000.0|Software|2000000|operating|USA|Mclean|1|2011.0|technology
 2421|Exeo Entertainment|550000.0|Games|1800000|operating|USA|Las Vegas|2|2011.0|events, travels, leisure and entertainment
-2422|Exercise.com|1742379.0|Video Streaming|1742379|operating|USA|Mountain View|1|2010.0|technology
+2422|Exercise.com|1742379.0|Video Streaming|1742379|operating|USA|Mountain View|1|2010.0|online platforms and marketplaces
 2423|Exergyn|128660.0|Clean Technology|128660|operating|IRL|Dublin|1|2012.0|technology
 2424|Exerscrip|50000.0|Biotechnology|50000|operating|USA|New Haven|1|2010.0|technology
 2425|Eximia|271472.0|Software|271472|operating|ITA|Milan|1|2003.0|technology
@@ -2432,14 +2432,14 @@
 2430|Experenti|700000.0|Augmented Reality|700000|operating|USA|New York|1|2014.0|technology
 2431|Experifun|260000.0|Education|335000|operating|IND|Bangalore|2|2012.0|education
 2432|Experiment Engine|1000000.0|Internet|1000000|operating|USA|Austin|1|2014.0|technology
-2433|ExpertBids.com|20000.0|Professional Services|20000|operating|USA|Chicago|1|2010.0|services
+2433|ExpertBids.com|20000.0|Professional Services|20000|operating|USA|Chicago|1|2010.0|online platforms and marketplaces
 2434|ExpertFlyer|30000.0|Travel|30000|operating|USA|Patchogue|1|2004.0|events, travels, leisure and entertainment
 2435|Experts 911|14000.0|IT Management|162000|operating|JOR|Amman|2|2011.0|technology
 2436|Expii, Inc.|1310000.0|Crowdsourcing|1310000|operating|USA|Pittsburgh|1|2014.0|online platforms and marketplaces
 2437|Explore Engage|200000.0|Retail|200000|operating|AUS|Sydney|1|2010.0|other consumer retail
 2438|Explore.To Yellow Pages|50000.0|Location Based Services|50000|closed|USA|Lewes|1|2010.0|services
 2439|Explorra|250000.0|Social Network Media|250000|operating|USA|San Francisco|1|2009.0|online platforms and marketplaces
-2440|ExtendCredit.com|863400.0|Software|863400|operating|USA|Aliso Viejo|1|2009.0|technology
+2440|ExtendCredit.com|863400.0|Software|863400|operating|USA|Aliso Viejo|1|2009.0|online platforms and marketplaces
 2441|Extreme Enterprises|300000.0|Enterprise Software|1455000|closed|USA|St. Petersburg|8|2007.0|technology
 2442|Extreme Reach (formerly BrandAds)|180000.0|Brand Marketing|180000|acquired|USA|Emeryville|1|2011.0|sales, marketing and advertising
 2443|Exuru!|150000.0|E-Commerce|150000|closed|GBR|Leeds|1|2011.0|online platforms and marketplaces
@@ -2539,7 +2539,7 @@
 2537|Featherlight|28000.0|Human Resources|28000|operating|||1|2014.0|services
 2538|Federated Media|750000.0|Content|57450000|operating|USA|San Francisco|4|2005.0|events, travels, leisure and entertainment
 2539|Fedora Pharmaceuticals|200100.0|Biotechnology|200100|operating|CAN|Edmonton|1|2012.0|technology
-2540|FeeSeeker.com, LLC|20000.0|Finance|20000|operating|USA|Henderson|1|2011.0|financials
+2540|FeeSeeker.com, LLC|20000.0|Finance|20000|operating|USA|Henderson|1|2011.0|online platforms and marketplaces
 2541|FeedVisor|1700000.0|E-Commerce|7700000|operating|ISR|Tel Aviv|2|2011.0|online platforms and marketplaces
 2542|FeedbacK Enterprise, LLC|500000.0|Self Development|500000|operating|USA|Hampton|1|2012.0|services
 2543|Feedback-Machine|40000.0|Analytics|40000|operating|BRA|São Paulo|1|2012.0|technology
@@ -2638,7 +2638,7 @@
 2636|Flipaste|25000.0|Marketplaces|25000|operating|ARG|Buenos Aires|1|2010.0|online platforms and marketplaces
 2637|Flipcause|30000.0|Event Management|320000|operating|USA|San Francisco|2|2013.0|events, travels, leisure and entertainment
 2638|Fliptop|2400000.0|Big Data|7000000|operating|||3|2010.0|technology
-2639|Flipxing.com|40000.0|Curated Web|40000|operating|USA|New York|1|2013.0|services
+2639|Flipxing.com|40000.0|Curated Web|40000|operating|USA|New York|1|2013.0|online platforms and marketplaces
 2640|Flirtatious Labs|37150.0|Online Dating|37150|operating|FRA|Paris|1|2011.0|events, travels, leisure and entertainment
 2641|Flixwagon|1000000.0|Mobile|2500000|operating|ISR|Tel Aviv|3|2007.0|consumer electronics
 2642|Flo Water|20000.0|Water|900000|operating|USA|Kilauea|2|2008.0|primary sector
@@ -2713,7 +2713,7 @@
 2711|Fosbury|350000.0|Finance|350000||NLD|Utrecht|1|2012.0|financials
 2712|FotoSwipe|350000.0|Photo Sharing|585000|operating|||2|2014.0|events, travels, leisure and entertainment
 2713|Fotomoto|300000.0|Photography|1822922|acquired|USA|San Francisco|3|2008.0|events, travels, leisure and entertainment
-2714|FoundHealth.com|100000.0|Health and Wellness|100000|operating|USA|San Francisco|1|2010.0|healthcare
+2714|FoundHealth.com|100000.0|Health and Wellness|100000|operating|USA|San Francisco|1|2010.0|online platforms and marketplaces
 2715|Four Eyes|350000.0|Retail|350000|operating|PHL|Pasig|1|2012.0|other consumer retail
 2716|Fourandhalf|119998.0|Social Media|119998|operating|USA|San Bruno|1|2012.0|online platforms and marketplaces
 2717|Fourteen IP|757625.0|Hospitality|757625|operating|GBR||1|2008.0|no-profit and government
@@ -2783,7 +2783,7 @@
 2781|G2B Pharma|235000.0|Biotechnology|235000|operating|USA|Corte Madera|1|2008.0|technology
 2782|GANTEC|777338.0|Biotechnology|777338|operating|USA|Midland|1|2005.0|technology
 2783|GAP Miners|500000.0|Software|500000|operating|IND|Hyderabad|1|2008.0|technology
-2784|GEEKmaister.com|100000.0|News|100000|closed|||1|2013.0|events, travels, leisure and entertainment
+2784|GEEKmaister.com|100000.0|News|100000|closed|||1|2013.0|online platforms and marketplaces
 2785|GELI|250000.0|Software|995000|operating|USA|San Francisco|2|2010.0|technology
 2786|GENIAC|1653913.0|Small and Medium Businesses|1653913|operating|GBR|London|1|2014.0|industrial
 2787|GENWI|1100000.0|Mobile|7100000|operating|USA|Los Altos|3|2010.0|consumer electronics
@@ -2791,7 +2791,7 @@
 2789|GIVINGtrax|20000.0|Life Sciences|20000|operating|USA|Seattle|1|2010.0|education
 2790|GIVTED|1000000.0|Curated Web|1000000|operating|USA|New York|1|2013.0|services
 2791|GIVVER|371248.0|Software|371248|operating|USA|St Louis|1|2012.0|technology
-2792|GLADvertising.com|150000.0|Semantic Search|150000|operating|USA|Northbrook|1|2012.0|technology
+2792|GLADvertising.com|150000.0|Semantic Search|150000|operating|USA|Northbrook|1|2012.0|online platforms and marketplaces
 2793|GLAMSQUAD|2000000.0|Cosmetics|9000000|operating|USA|New York|2|2014.0|healthcare
 2794|GLIIF|270000.0|Mobile|760000|operating|USA|Mountain View|2|2012.0|consumer electronics
 2795|GLOG|30000.0|Clean Technology|30000|operating|EST|Tartu|1|2013.0|technology
@@ -2829,7 +2829,7 @@
 2827|Gaming Live TV|27000.0|Video Games|27000|operating|||1|2014.0|events, travels, leisure and entertainment
 2828|Gamisfaction|52933.0|Social Media|52933||ESP|Villaviciosa De Odón|1|2012.0|online platforms and marketplaces
 2829|GamyTech|200000.0|Game|200000|operating|ISR|Ramat Gan|1|2014.0|events, travels, leisure and entertainment
-2830|Ganeselo.com|200000.0|Social Games|400000|operating|CHL|Santiago|2|2011.0|events, travels, leisure and entertainment
+2830|Ganeselo.com|200000.0|Social Games|400000|operating|CHL|Santiago|2|2011.0|online platforms and marketplaces
 2831|Ganos|5000.0|Open Source|5000|operating|||1|2010.0|technology
 2832|GapJumpers|40000.0|SaaS|40000|operating|CHL|Santiago|1|2012.0|services
 2833|GardenStory|67631.0|Customer Service|201147|operating|IRL|Tralee|2|2012.0|services
@@ -2883,7 +2883,7 @@
 2881|GetBulb|20118.0|Analytics|83173|operating|IRL|Dublin|2|2011.0|technology
 2882|GetGifted|400000.0|Advertising|400000|operating|CAN|Charlottetown|1|2013.0|sales, marketing and advertising
 2883|GetGoing|2500000.0|Hotels|2500000|operating|USA|San Francisco|1|2012.0|events, travels, leisure and entertainment
-2884|GetHired.com|1750000.0|Human Resources|1750000|operating|USA|Palo Alto|1|2012.0|services
+2884|GetHired.com|1750000.0|Human Resources|1750000|operating|USA|Palo Alto|1|2012.0|online platforms and marketplaces
 2885|GetIntent|400000.0|Technology|400000|operating|RUS|Moscow|1|2012.0|technology
 2886|GetLikeminds|71000.0|Software|71000|operating|GBR|London|1|2012.0|technology
 2887|GetMyRx|600000.0|Health Care|600000|operating|USA|Miami|1|2013.0|healthcare
@@ -2919,21 +2919,21 @@
 2917|Gimmie|520000.0|CRM|1720000|operating|SGP|Singapore|4|2011.0|sales, marketing and advertising
 2918|Ginger.io|1700000.0|Big Data|8200000|operating|USA|Cambridge|4|2011.0|technology
 2919|Gini|1500000.0|Semantic Search|1830000|operating|DEU|München|4|2011.0|technology
-2920|Ginio.com|600000.0|Search|600000|operating|USA|Miami|1|2012.0|technology
+2920|Ginio.com|600000.0|Search|600000|operating|USA|Miami|1|2012.0|online platforms and marketplaces
 2921|Ginkgo Bioworks|120000.0|Biotechnology|120000|operating|||1|2008.0|technology
 2922|Gipis|300000.0|Health Care|300000|operating|RUS|Moscow|1|2011.0|healthcare
 2923|Giraffic|2000000.0|Consumer Electronics|6500000|operating|ISR|Tel Aviv|2|2008.0|consumer electronics
-2924|GirlsAskGuys.com|1000000.0|Advice|1000000|operating|USA|Saint Louis|1|2008.0|services
+2924|GirlsAskGuys.com|1000000.0|Advice|1000000|operating|USA|Saint Louis|1|2008.0|online platforms and marketplaces
 2925|GiveForward|15000.0|Startups|2515000|operating|USA|Chicago|3|2008.0|services
 2926|GiveGab|2600000.0|Social Media|2990000|operating|USA|Ithaca|2|2011.0|online platforms and marketplaces
 2927|GiveNext|70000.0|Charity|70000|operating|USA|Cleveland|1|2012.0|no-profit and government
 2928|GiveSurance|100000.0|Charity|100000|operating|USA|Woodland Hills|2|2013.0|no-profit and government
 2929|Giveter|500000.0|Advertising|500000|operating|IND|Haryana|1|2012.0|sales, marketing and advertising
 2930|Givey|1041510.0|Mobile|1041510|operating|GBR|Langley-on-tyne|1|2011.0|consumer electronics
-2931|Gizmo.com|340000.0|Advertising|340000|operating|USA|San Francisco|2|2011.0|sales, marketing and advertising
+2931|Gizmo.com|340000.0|Advertising|340000|operating|USA|San Francisco|2|2011.0|online platforms and marketplaces
 2932|Gladitood|350000.0|Social Travel|350000|operating|USA|St Louis|1|2012.0|events, travels, leisure and entertainment
 2933|GlamBox|1360000.0|Fashion|1360000|operating|ARE|Dubai|1|2011.0|other consumer retail
-2934|GlampingHub.com|40000.0|Hospitality|1040000|operating|USA|San Francisco|2|2012.0|no-profit and government
+2934|GlampingHub.com|40000.0|Hospitality|1040000|operating|USA|San Francisco|2|2012.0|online platforms and marketplaces
 2935|Glanse|25000.0|Fashion|25000|operating|USA|Sunnyvale|1|2011.0|other consumer retail
 2936|Glarity|30000.0|Media|30000|operating|USA|Leeds|1|2007.0|online platforms and marketplaces
 2937|Glassful|750000.0|E-Commerce|750000|operating|USA|Long Island City|1|2013.0|online platforms and marketplaces
@@ -3094,7 +3094,7 @@
 3092|Ground Zero Group Corporation|5000.0|Web Development|5000|closed|USA|Minneapolis|1|2009.0|technology
 3093|GroundCntrl|1000000.0|Enterprise Software|1000000|operating|USA|San Jose|1|2010.0|technology
 3094|GroupFlier|500000.0|Messaging|500000|operating|USA|Bethesda|1|2010.0|online platforms and marketplaces
-3095|GroupGifting.com DBA eGifter|724900.0|Software|2419179|operating|USA|Melville|3|2011.0|technology
+3095|GroupGifting.com DBA eGifter|724900.0|Software|2419179|operating|USA|Melville|3|2011.0|online platforms and marketplaces
 3096|GroupPrice|600000.0|Small and Medium Businesses|600000|operating|USA|Redwood City|1|2010.0|industrial
 3097|GroupTalent|1000000.0|Software|1000000|operating|USA|Seattle|2|2011.0|technology
 3098|Groupe-Allomedia|137607.0|Internet|137607|operating|FRA||1|2011.0|technology
@@ -3152,7 +3152,7 @@
 3150|Habet|40000.0|Tracking|40000|operating|CHL|Santiago|1|2014.0|services
 3151|HabitRPG|42000.0|Curated Web|42000|operating|||1|2012.0|services
 3152|Habitissimo|55668.0|Real Estate|866950|operating|ESP|Palma De Mallorca|4|2009.0|financials
-3153|HacemeUnRegalo.com|25000.0|Advertising|25000|operating|ARG|Buenos Aires|1|2013.0|sales, marketing and advertising
+3153|HacemeUnRegalo.com|25000.0|Advertising|25000|operating|ARG|Buenos Aires|1|2013.0|online platforms and marketplaces
 3154|Hacker School|17000.0|Education|217000|operating|USA|New York|2|2011.0|education
 3155|HackerEarth|500000.0|Software|500000|operating|IND|Bangalore|2|2012.0|technology
 3156|HackerRank|200000.0|Recruiting|12400000|operating|USA|Mountain View|3|2012.0|services
@@ -3186,7 +3186,7 @@
 3184|HashTip|200000.0|Social Media|200000|closed|USA|Edison|1|2012.0|online platforms and marketplaces
 3185|Hashdoc|190000.0|Content|190000|operating|JOR||1|2012.0|events, travels, leisure and entertainment
 3186|Hashtago|200000.0|Big Data|200000|operating|||1|2013.0|technology
-3187|Hassle.com|23000.0|Small and Medium Businesses|6413698|operating|GBR|London|3|2011.0|industrial
+3187|Hassle.com|23000.0|Small and Medium Businesses|6413698|operating|GBR|London|3|2011.0|online platforms and marketplaces
 3188|Hatchery|500000.0|Subscription Businesses|500000|operating|||1|2013.0|other consumer retail
 3189|Hats Off Technology|20000.0|Health Care|20000|operating|USA|San Antonio|1|2013.0|healthcare
 3190|HaulerDeals|1250000.0|Fashion|1250000|operating|USA|Los Angeles|1|2012.0|other consumer retail
@@ -3234,11 +3234,11 @@
 3232|Hello Music|4000000.0|E-Commerce|4000000|operating|USA|Los Angeles|1|2010.0|online platforms and marketplaces
 3233|HelloTel|500000.0|Networking|500000|operating|||1|2014.0|technology
 3234|Help Me Rent Magazine|500000.0|Online Rental|500000|closed|USA|West Hollywood|1|2010.0|online platforms and marketplaces
-3235|Help.com|6000000.0|Software|6000000|operating|USA|Austin|1|2014.0|technology
+3235|Help.com|6000000.0|Software|6000000|operating|USA|Austin|1|2014.0|online platforms and marketplaces
 3236|HelpAround|550000.0|Social Search|550000|operating|ISR|Tel Aviv|1|2013.0|online platforms and marketplaces
 3237|HelpHive|250000.0|Local|250000|closed|USA|Shoreline|1|2008.0|other
 3238|HelpHub|250000.0|Marketplaces|250000|operating|CAN|Vancouver|1|2013.0|online platforms and marketplaces
-3239|HelpMeRent.com|154000.0|Home & Garden|154000|closed|USA|West Hollywood|1|2010.0|events, travels, leisure and entertainment
+3239|HelpMeRent.com|154000.0|Home & Garden|154000|closed|USA|West Hollywood|1|2010.0|online platforms and marketplaces
 3240|Helpa|2000000.0|Games|2000000|operating|USA|Santa Monica|1|2013.0|events, travels, leisure and entertainment
 3241|Helpful Technologies|500000.0|Software|1412950|operating|USA|Fort Lauderdale|3|2008.0|technology
 3242|HelpingDoc|155236.0|Health and Wellness|1655236|operating|IND|New Delhi|2|2011.0|healthcare
@@ -3338,7 +3338,7 @@
 3336|Househappy|1000000.0|Search|3550000|operating|USA|Portland|4|2011.0|technology
 3337|Housekeep|1000000.0|Clean Technology|1000000|operating|||1|2013.0|technology
 3338|Houserie|250000.0|Real Estate|250000|operating|USA|Pleasanton|1|2013.0|financials
-3339|Housing.com|2500000.0|Real Estate|139500000|operating|IND|Mumbai|4|2012.0|financials
+3339|Housing.com|2500000.0|Real Estate|139500000|operating|IND|Mumbai|4|2012.0|online platforms and marketplaces
 3340|HouzeMe|300000.0|Rental Housing|300000|operating|||1|2013.0|services
 3341|Hover 3D|3100000.0|Maps|11300000||USA|Los Altos|3|2011.0|other
 3342|HowGood|2000000.0|Food Processing|2000000|operating|USA|Brooklyn|1|2006.0|food and beverage
@@ -3411,7 +3411,7 @@
 3409|Icinetic|842723.0|Software|842723|operating|ESP|Seville|1|2006.0|technology
 3410|Iconfinder|1500000.0|Crowdsourcing|1500000|operating|DNK|Copenhagen|1|2007.0|online platforms and marketplaces
 3411|Iconixx Software|4764900.0|Software|13764900|operating|USA|Austin|3|2010.0|technology
-3412|Icount.com|15000.0|SaaS|182500|operating|USA|Orem|2|2010.0|services
+3412|Icount.com|15000.0|SaaS|182500|operating|USA|Orem|2|2010.0|online platforms and marketplaces
 3413|Iddiction|3500000.0|Ediscovery|3500000|operating|USA|Menlo Park|1|2011.0|technology
 3414|Idea Village|600000.0|Nonprofits|600000|operating|USA|New Orleans|1|2000.0|no-profit and government
 3415|Ideal Power|750000.0|Energy|8250000|operating|USA|Spicewood|4|2007.0|industrial
@@ -3465,7 +3465,7 @@
 3463|Independent Artist Competition Assoc.|5000000.0|Entertainment Industry|5000000|operating|||1|2013.0|events, travels, leisure and entertainment
 3464|IndexTank|1600000.0|SaaS|1600000|acquired|USA|San Francisco|1|2009.0|services
 3465|IndiaCollegeSearch|320000.0|Curated Web|1320000|operating|USA|Gurdon|2|2010.0|services
-3466|IndiaEver.com|20000.0|Music|20000|closed|IND|New Delhi|1|2012.0|events, travels, leisure and entertainment
+3466|IndiaEver.com|20000.0|Music|20000|closed|IND|New Delhi|1|2012.0|online platforms and marketplaces
 3467|Indicative|2000000.0|Sales and Marketing|2000000|operating|USA|New York|1|2013.0|sales, marketing and advertising
 3468|Indiegogo|1500000.0|Finance|56500000|operating|USA|San Francisco|5|2008.0|financials
 3469|Inductly|100000.0|B2B|100000|operating|USA|San Francisco|1|2014.0|industrial
@@ -3593,9 +3593,9 @@
 3591|Inveni|483333.0|Curated Web|483333|operating|USA|Minnetonka|1|2008.0|services
 3592|Inventarium.mobi|40000.0|Windows Phone 7|40000|operating|RUS|Moscow|1|2012.0|consumer electronics
 3593|Inventbuy|28000.0|E-Commerce|28000|operating|||1|2010.0|online platforms and marketplaces
-3594|Inversiones.com|400000.0|Finance|400000|operating|USA|Aventura|1|2010.0|financials
+3594|Inversiones.com|400000.0|Finance|400000|operating|USA|Aventura|1|2010.0|online platforms and marketplaces
 3595|InvestGlass|100000.0|Finance|100000|operating|CHE|Plan-les-ouates|1|2013.0|financials
-3596|Investing.com|300000.0|Finance|300000|operating|CYP|Nicosia|1|2007.0|financials
+3596|Investing.com|300000.0|Finance|300000|operating|CYP|Nicosia|1|2007.0|online platforms and marketplaces
 3597|InvestingNote|39473.0|Collaboration|39473|operating|SGP|Singapore|1|2013.0|services
 3598|Investment Underground|50000.0|News|50000|operating|USA|New York|1|2010.0|events, travels, leisure and entertainment
 3599|Investorio.de|66676.0|Crowdfunding|86676|operating|||2|2012.0|online platforms and marketplaces
@@ -3648,7 +3648,7 @@
 3646|Jaunt|350000.0|Software|34950000|operating|USA|Palo Alto|3|2013.0|technology
 3647|Jawfish Games|885000.0|Games|3485000|operating|USA|Seattle|2|2012.0|events, travels, leisure and entertainment
 3648|Jaypore|375000.0|Marketplaces|375000|operating|IND|New Delhi|1|2012.0|online platforms and marketplaces
-3649|Jayride.com|400000.0|Transportation|900000|operating|||2|2008.0|services
+3649|Jayride.com|400000.0|Transportation|900000|operating|||2|2008.0|online platforms and marketplaces
 3650|Jebbit|1750000.0|Internet Marketing|2250000|operating|USA|Boston|3|2011.0|sales, marketing and advertising
 3651|Jelli|2000000.0|Advertising Platforms|16600000|operating|USA|San Mateo|4|2008.0|sales, marketing and advertising
 3652|Jelly Button Games|1500000.0|Social Games|1500000|operating|ISR|Tel Aviv|1|2011.0|events, travels, leisure and entertainment
@@ -3724,7 +3724,7 @@
 3722|KRAFTWERK|40000.0|Clean Technology|40000|operating|DEU|Weingarten|1|2006.0|technology
 3723|KSKT|10000.0|Design|10000|operating|JPN|Kamakura|1|2013.0|services
 3724|KVZ Sports|160000.0|Manufacturing|160000|operating|USA|Scottsdale|1|2010.0|industrial
-3725|KYCK.com|1000000.0|B2B|2012948|operating|USA|Charlotte|4|2011.0|industrial
+3725|KYCK.com|1000000.0|B2B|2012948|operating|USA|Charlotte|4|2011.0|online platforms and marketplaces
 3726|KaChing!|1500000.0|Mobile Coupons|1500000|operating|USA|Fremont|1|2012.0|online platforms and marketplaces
 3727|Kabanchik|20000.0|Marketplaces|20000|operating|UKR|Kiev|1|2012.0|online platforms and marketplaces
 3728|KabeExploration|5000000.0|Consulting|5000000|operating|USA|San Diego|1|2005.0|services
@@ -3751,7 +3751,7 @@
 3749|KarmaKey|15000.0|Analytics|15000|operating|||1|2010.0|technology
 3750|Karo Internet|405810.0|Online Gaming|1204795|closed|DEU|Cologne|3|2007.0|events, travels, leisure and entertainment
 3751|KartoonArt|70000.0|Photography|70000|operating|UKR|Kiev|1|2013.0|events, travels, leisure and entertainment
-3752|Kasidie.com|100000.0|Curated Web|600000|operating|USA|Las Vegas|2|2008.0|services
+3752|Kasidie.com|100000.0|Curated Web|600000|operating|USA|Las Vegas|2|2008.0|online platforms and marketplaces
 3753|Kasisto, Inc.|2250000.0|Software|2250000|operating|||1|2013.0|technology
 3754|Kate's Goodness|150000.0|Local|150000|operating|USA|New York|2|2013.0|other
 3755|Kato|118000.0|Business Information Systems|1878000|operating|USA|Oakland|2|2013.0|technology
@@ -3864,7 +3864,7 @@
 3862|Kona DataSearch|500000.0|Enterprise Software|500000|operating|USA|Nashua|1|2011.0|technology
 3863|Konga Online Shopping Limited|3500000.0|Home Automation|78500000|operating|NGA|Lagos|4|2012.0|technology
 3864|KonnectAgain|24329.0|Employment|24329|operating|IRL|Cork|1|2013.0|services
-3865|Konnecti.com|50000.0|Enterprise Software|450000|operating|USA|Atlanta|2|2012.0|technology
+3865|Konnecti.com|50000.0|Enterprise Software|450000|operating|USA|Atlanta|2|2012.0|online platforms and marketplaces
 3866|Konoz|100000.0|Education|100000|operating|ITA|Modena|1|2014.0|education
 3867|Kontest|833549.0|Apps|833549|operating|FRA|Montreuil|1|2010.0|technology
 3868|Koofers|2000000.0|Employment|7000000|operating|USA|Ashburn|4|2008.0|services
@@ -3956,7 +3956,7 @@
 3954|LaunchLab|80000.0|Information Technology|80000|operating|||1|2013.0|technology
 3955|LaunchRock|800000.0|Enterprise Software|800000|acquired|USA|Walnut|1|2011.0|technology
 3956|LaunchSide|25000.0|Consulting|25000|operating|USA|Tualatin|1|2011.0|services
-3957|LaunchSide.com|25000.0|Finance|25000|operating|USA|Tualatin|1|2011.0|financials
+3957|LaunchSide.com|25000.0|Finance|25000|operating|USA|Tualatin|1|2011.0|online platforms and marketplaces
 3958|Laurel & Wolf|1100000.0|Design|1100000|operating|USA|Los Angeles|1|2014.0|services
 3959|LawbitDocs|611687.0|Legal|611687|operating|GBR|London|1|2011.0|services
 3960|Lawdingo|100000.0|Legal|790000|operating|USA|New York|2|2012.0|services
@@ -3974,7 +3974,7 @@
 3972|LeadiD|1000000.0|Enterprise Software|9700000|operating|USA|Ambler|3|2011.0|technology
 3973|Leadspace|3000000.0|Enterprise Software|10000000|operating|USA|Menlo Park|3|2007.0|technology
 3974|Leap Motion|1300000.0|Hardware + Software|44050000|operating|USA|San Francisco|3|2010.0|technology
-3975|Leap.it|1600000.0|Search|5390000|operating|USA|Kansas City|6|2011.0|technology
+3975|Leap.it|1600000.0|Search|5390000|operating|USA|Kansas City|6|2011.0|online platforms and marketplaces
 3976|Leapfactor|670000.0|Software|2854130|operating|USA|Miami|3|2009.0|technology
 3977|Leapforce|200000.0|Freelancers|200000|operating|USA|Pleasanton|1|2008.0|services
 3978|Leapset|1000000.0|Enterprise Software|32150000|operating|USA|Redwood City|4|2011.0|technology
@@ -4027,7 +4027,7 @@
 4025|Letsgofordinner|140000.0|Hospitality|140000|operating|CAN|Vancouver|1|2007.0|no-profit and government
 4026|Levlr|25000.0|Sales and Marketing|25000|operating|USA|Pittsburgh|1|2010.0|sales, marketing and advertising
 4027|Lexity|1200000.0|Enterprise Software|5700000|acquired|USA|Mountain View|2|2009.0|technology
-4028|Lexpertia.com|41004.0|Algorithms|41004|operating|GBR|London|1|2010.0|technology
+4028|Lexpertia.com|41004.0|Algorithms|41004|operating|GBR|London|1|2010.0|online platforms and marketplaces
 4029|Lexplique - /lɛk • splik/|40000.0|Legal|40000|operating|USA|San Francisco|1|2011.0|services
 4030|Lexy|1250000.0|Mobile|1708000|closed|USA|San Francisco|2|2006.0|consumer electronics
 4031|Leyden Energy|4500000.0|Manufacturing|34500000|operating|USA|Fremont|3|2007.0|industrial
@@ -4037,7 +4037,7 @@
 4035|LibriLoop|50000.0|Recycling|50000|operating|USA|Cleveland|1|2010.0|services
 4036|License Acquisitions|650000.0|Mobile|650000|operating|USA|Phoenix|1|2008.0|consumer electronics
 4037|License Buddy|9700.0|Education|34700|operating|USA|San Francisco|2|2013.0|education
-4038|Lidyana.com|1000000.0|Fashion|10000000|operating|TUR|Istanbul|3|2012.0|other consumer retail
+4038|Lidyana.com|1000000.0|Fashion|10000000|operating|TUR|Istanbul|3|2012.0|online platforms and marketplaces
 4039|Life360|50000.0|Tracking|76100000|operating|USA|San Francisco|8|2008.0|services
 4040|LifeBio|80000.0|Consumer Internet|80000|operating|USA|Marysville|1|2006.0|technology
 4041|LifeGuard Games|7500.0|Health Care|62500|operating|USA|Boston|2|2012.0|healthcare
@@ -4262,7 +4262,7 @@
 4260|MOLOME|11700.0|Windows Phone 7|11700|operating|SGP|Singapore|1|2011.0|consumer electronics
 4261|MOOVIA|400000.0|Social Network Media|400000|operating|||1|2012.0|online platforms and marketplaces
 4262|MOVE Guides|1800000.0|Local Based Services|10624193|operating|GBR|London|3|2011.0|services
-4263|MPGomatic.com|10000.0|Clean Technology|10000|operating|USA|Skillman|1|2007.0|technology
+4263|MPGomatic.com|10000.0|Clean Technology|10000|operating|USA|Skillman|1|2007.0|online platforms and marketplaces
 4264|Maana|2610000.0|Data Integration|14195000|operating|USA|Palo Alto|3|2012.0|technology
 4265|Mabaya|1200000.0|E-Commerce|1200000|operating|ISR|Tel Aviv|1|2013.0|online platforms and marketplaces
 4266|Macaw|275929.0|Web Development|275929|operating|USA|Washington|1|2013.0|technology
@@ -4272,7 +4272,7 @@
 4270|MachineShop, Inc|3000000.0|Local Businesses|3000000|operating|USA|Boston|1|2012.0|industrial
 4271|Mad Mimi|110000.0|Curated Web|110000|acquired|USA|Brooklyn|1|2008.0|services
 4272|Madefire|1200000.0|Mobile|9918168|operating|USA|Berkeley|3|2011.0|consumer electronics
-4273|Madison Plus Select / HeyGorgeous.com|550000.0|Retail|550000|operating|USA|Brooklyn|2|2013.0|other consumer retail
+4273|Madison Plus Select / HeyGorgeous.com|550000.0|Retail|550000|operating|USA|Brooklyn|2|2013.0|online platforms and marketplaces
 4274|Madmagz|83000.0|Digital Media|613000|operating|FRA|Paris|3|2010.0|events, travels, leisure and entertainment
 4275|Magazinga|500000.0|Social Commerce|500000|operating|RUS|Moscow|1|2010.0|online platforms and marketplaces
 4276|Magency Digital|35424.0|Technology|272929|operating|FRA|Paris|3|2011.0|technology
@@ -4387,7 +4387,7 @@
 4385|Maventus Group Inc|800000.0|Social Media Marketing|800000|operating|USA|San Francisco|1|2013.0|sales, marketing and advertising
 4386|Mavizon|4000000.0|Cars|6900000|operating|USA|New Albany|3|2006.0|automotive
 4387|Mavrx|80000.0|Analytics|80000|operating|USA|San Francisco|2|2012.0|technology
-4388|MaxTradeIn.com|857360.0|Automotive|1407360|operating|USA|Indianapolis|2|2011.0|automotive
+4388|MaxTradeIn.com|857360.0|Automotive|1407360|operating|USA|Indianapolis|2|2011.0|online platforms and marketplaces
 4389|Maximum Balance Foundation|1000.0|Education|1000|operating|USA|San Francisco|1|2005.0|education
 4390|Maximus Media Worldwide|600000.0|Advertising|600000|operating|USA|Pittsburgh|1|2011.0|sales, marketing and advertising
 4391|Maxpanda SaaS Software|250000.0|Software|250000|operating|USA|Santa Monica|1|2011.0|technology
@@ -4416,7 +4416,7 @@
 4414|Medalogix|300000.0|Web CMS|5300000|operating|USA|Nashville|2|2009.0|technology
 4415|MedeFile International|250000.0|Health and Wellness|2943000|operating|USA|Boca Raton|8|1998.0|healthcare
 4416|Medesen|40000.0|Health Care|40000|operating|CHL|Santiago|1|2012.0|healthcare
-4417|MediConecta.com|40000.0|Enterprise Software|40000|operating|BRA|Nossa Senhora Das Graças|1|2011.0|technology
+4417|MediConecta.com|40000.0|Enterprise Software|40000|operating|BRA|Nossa Senhora Das Graças|1|2011.0|online platforms and marketplaces
 4418|MediSafe Project|1000000.0|Software|1000000|operating|ISR||2|2012.0|technology
 4419|MediSwipe|600000.0|Software|1700000|operating|USA|West Palm Beach|2|1997.0|technology
 4420|MediVision|3000.0|Consulting|3000|closed|USA|Syracuse|1|2010.0|services
@@ -4458,7 +4458,7 @@
 4456|Member Desk|20000.0|E-Commerce|20000|operating|USA|Phoenix|1|2011.0|online platforms and marketplaces
 4457|MemberPass|29358.0|Health and Wellness|29358|operating|AUS|Sydney|1|2013.0|healthcare
 4458|MemberPlanet|2500000.0|Software|2500000|operating|USA|Torrance|1|2011.0|technology
-4459|MemberTender.com|816240.0|CRM|816240|operating|IRL|Dublin|1|2010.0|sales, marketing and advertising
+4459|MemberTender.com|816240.0|CRM|816240|operating|IRL|Dublin|1|2010.0|online platforms and marketplaces
 4460|Meme Apps|2433171.0|Android|2433171|operating|||1|2011.0|technology
 4461|Memeoirs|40000.0|Email|597320|operating|ITA|San Polo|3|2010.0|technology
 4462|Memetales|100000.0|Games|100000|operating|USA|Bellevue|1|2010.0|events, travels, leisure and entertainment
@@ -4538,7 +4538,7 @@
 4536|MileWise|1500000.0|Travel|2460000|acquired|USA|New York|3|2010.0|events, travels, leisure and entertainment
 4537|Milestone Sports Ltd.|700000.0|Health and Wellness|700000|operating|USA|Columbia|1|2013.0|healthcare
 4538|Million Dollar Earth|30000.0|Advertising|30000|closed|USA|Puyallup|1|2011.0|sales, marketing and advertising
-4539|Milmenus.com|7500.0|Mobile|7500|operating|COL|Bogotá|1|2010.0|consumer electronics
+4539|Milmenus.com|7500.0|Mobile|7500|operating|COL|Bogotá|1|2010.0|online platforms and marketplaces
 4540|Milo|950000.0|Reviews and Recommendations|4950000|acquired|USA|Palo Alto|2|2008.0|events, travels, leisure and entertainment
 4541|Milo Networks|34623.0|Advertising|34623|operating|DEU|Berlin|1|2014.0|sales, marketing and advertising
 4542|Mimesis Republic|575608.0|Entertainment|575608|operating|||1|2007.0|events, travels, leisure and entertainment
@@ -4632,7 +4632,7 @@
 4630|MobileX Labs|1500000.0|Software|1500000|operating|USA|Chicago|1|2012.0|technology
 4631|MobiliBuy|550000.0|QR Codes|550000|operating|ISR|Caesarea|1|2013.0|technology
 4632|Mobilitrix|80000.0|Mobile|80000|operating|BGR|Zafirovo|2|2006.0|consumer electronics
-4633|MobilityBee.com|200000.0|Mobile|300000|operating|LTU|Vilnius|2|2011.0|consumer electronics
+4633|MobilityBee.com|200000.0|Mobile|300000|operating|LTU|Vilnius|2|2011.0|online platforms and marketplaces
 4634|Mobilization Labs|75000.0|Nonprofits|3051520|operating|USA|Atlanta|5|2005.0|no-profit and government
 4635|Mobimedia|500000.0|Mobile|500000|operating|CAN|Toronto|1|2009.0|consumer electronics
 4636|Mobincube|946000.0|Android|946000|operating|ESP|Valencia|1|2008.0|technology
@@ -4647,7 +4647,7 @@
 4645|ModCloth|1055000.0|Crowdsourcing|63739701|operating|USA|San Francisco|6|2002.0|online platforms and marketplaces
 4646|Modabound|120000.0|E-Commerce|120000|operating|USA|New York|1|2013.0|online platforms and marketplaces
 4647|Modastic Groupe|20000.0|E-Commerce|20000|operating|||1|2013.0|online platforms and marketplaces
-4648|Modavanti.com|300000.0|Sustainability|300000|operating|USA|New York|1|2012.0|animals, plants and environment
+4648|Modavanti.com|300000.0|Sustainability|300000|operating|USA|New York|1|2012.0|online platforms and marketplaces
 4649|Mode De Faire|16000.0|Trading|16000|operating|USA|Dallas|1|2012.0|financials
 4650|Modebo|49477.0|Clean Technology|49477||MEX|Mexico City|1|2010.0|technology
 4651|Modenus Media|450000.0|Curated Web|450000|operating|USA|Lancaster|1|2010.0|services
@@ -4728,7 +4728,7 @@
 4726|MovableInk|85000.0|Advertising|12385000|operating|USA|New York|3|2010.0|sales, marketing and advertising
 4727|Movatu|150000.0|Android|150000|operating|USA|Walnut Creek|1|2013.0|technology
 4728|Move Loot|2800000.0|E-Commerce|2800000|operating|USA|San Francisco|1|2013.0|online platforms and marketplaces
-4729|MoveThatBlock.com|1050000.0|Real Estate|1050000|operating|USA|Lyndonville|1|2010.0|financials
+4729|MoveThatBlock.com|1050000.0|Real Estate|1050000|operating|USA|Lyndonville|1|2010.0|online platforms and marketplaces
 4730|MoveableCode, Inc.|350000.0|Android|350000|closed|USA|Providence|2|2010.0|technology
 4731|Movebubble|1509636.0|Internet|1509636|operating|GBR|London|1|2013.0|technology
 4732|MoveinBlue|288160.0|Travel|288160|operating|ESP|Madrid|1|2011.0|events, travels, leisure and entertainment
@@ -4780,7 +4780,7 @@
 4778|MyCoop|150000.0|SaaS|150000|operating|USA|New York|1|2013.0|services
 4779|MyCrowd|150000.0|Software|150000|operating|USA|Corte Madera|1|2013.0|technology
 4780|MyDROBE|300000.0|Mobile|300000|operating|USA|New York|1|2011.0|consumer electronics
-4781|MyDealBoard.com|102372.0|Curated Web|102372|operating|CAN|Mississauga|1|2010.0|services
+4781|MyDealBoard.com|102372.0|Curated Web|102372|operating|CAN|Mississauga|1|2010.0|online platforms and marketplaces
 4782|MyDemocracy|140000.0|Politics|140000|operating|USA|Arlington|1|2012.0|no-profit and government
 4783|MyFuelUp|100000.0|Fitness|100000|operating|||1|2013.0|healthcare
 4784|MyGeekDay|100000.0|E-Commerce|100000|operating|CAN|Ottawa|1|2011.0|online platforms and marketplaces
@@ -4790,8 +4790,8 @@
 4788|MyLikes|630000.0|Advertising|6230000|operating|USA|San Francisco|2|2010.0|sales, marketing and advertising
 4789|MyLorry|1158685.0|Logistics|2248964|operating|DEU|Berlin|2|2013.0|services
 4790|MyLuvs|128661.0|Advertising|128661|operating|DEU|München|1|2012.0|sales, marketing and advertising
-4791|MyMedLeads.com|350000.0|Software|350000|operating|USA|Austin|1|2009.0|technology
-4792|MyNewDeals.com|200000.0|Hotels|200000|operating|IND|Ahmedabad|1|2011.0|events, travels, leisure and entertainment
+4791|MyMedLeads.com|350000.0|Software|350000|operating|USA|Austin|1|2009.0|online platforms and marketplaces
+4792|MyNewDeals.com|200000.0|Hotels|200000|operating|IND|Ahmedabad|1|2011.0|online platforms and marketplaces
 4793|MyNines|500000.0|E-Commerce|500000|operating|USA|New York|1|2009.0|online platforms and marketplaces
 4794|MyOtherDrive|1000000.0|Photo Sharing|1000000|operating|USA|Dayton|1|2005.0|events, travels, leisure and entertainment
 4795|MyParichay|250000.0|Facebook Applications|250000|operating|IND|Bangalore|1|2012.0|technology
@@ -4801,7 +4801,7 @@
 4799|MyRefers|100000.0|Employment|100000|operating|IND|Mumbai|2|2013.0|services
 4800|MyRugbyCV.Com|25000.0|Sports|25000|operating|||1|2012.0|events, travels, leisure and entertainment
 4801|MySQUAR|500000.0|Entertainment|500000|operating|MMR|Yangon|1|2013.0|events, travels, leisure and entertainment
-4802|MySocialCloud.com|1000000.0|Cloud Computing|1000000|acquired|USA|Lucerne Valley|1|2011.0|technology
+4802|MySocialCloud.com|1000000.0|Cloud Computing|1000000|acquired|USA|Lucerne Valley|1|2011.0|online platforms and marketplaces
 4803|MyTime|3000000.0|Apps|3000000|operating|USA|San Francisco|1|2011.0|technology
 4804|MyTinks|76800.0|Application Platforms|76800|operating|USA||1|2014.0|technology
 4805|MyUnfold|45000.0|Software|45000|operating|USA|Seattle|1|2011.0|technology
@@ -4851,7 +4851,7 @@
 4849|Nanotether Discovery Services|3453953.0|Nanotechnology|3453953|operating|GBR|Cardiff|1|2012.0|technology
 4850|Nanovi|771960.0|Health Care|4195228|operating|DNK|Copenhagen|4|2010.0|healthcare
 4851|Naonext|170000.0|Design|170000|operating|FRA|Couëron|1|2012.0|services
-4852|Naplyrics.com|250000.0|Video|250000|operating|CAN|Edmonton|1|2011.0|technology
+4852|Naplyrics.com|250000.0|Video|250000|operating|CAN|Edmonton|1|2011.0|online platforms and marketplaces
 4853|Narrable|165000.0|K-12 Education|165000|operating|USA|Tulsa|1|2011.0|education
 4854|Narrative Science|1350000.0|Big Data|32400000|operating|USA|Chicago|6|2010.0|technology
 4855|Narvalous|800000.0|Startups|800000|operating|USA|Palo Alto|1|2010.0|services
@@ -4908,14 +4908,14 @@
 4906|Nethub|48925.0|Enterprise Software|214925|operating|COL|Bogotá|2|2011.0|technology
 4907|Netlift|150650.0|Mobile|361205|operating|CAN|Montréal|3|2012.0|consumer electronics
 4908|Netlist|1648351.0|Semiconductors|16648351|operating|USA|Irvine|2|2000.0|industrial
-4909|Netnui.com|40000.0|Analytics|40000|operating|CHL|Santiago|1|2012.0|technology
+4909|Netnui.com|40000.0|Analytics|40000|operating|CHL|Santiago|1|2012.0|online platforms and marketplaces
 4910|Netotiate|1600000.0|Price Comparison|1600000|operating|USA|Waltham|2|2011.0|financials
 4911|Netrounds|1000000.0|Web Hosting|1000000|operating|||1|2007.0|technology
 4912|Netsket|64870.0|Social Media|64870|operating|||2|2006.0|online platforms and marketplaces
 4913|Nettle|500000.0|Entertainment|500000|closed|USA|La Jolla|1|2010.0|events, travels, leisure and entertainment
 4914|Netvibes|1000000.0|Web Development|16000000|acquired|FRA|Paris|2|2005.0|technology
 4915|Network|2000000.0|Productivity Software|3000000|operating|||2|2013.0|technology
-4916|NetworkingPhoenix.com|300000.0|Curated Web|300000|operating|USA|Scottsdale|1|2008.0|services
+4916|NetworkingPhoenix.com|300000.0|Curated Web|300000|operating|USA|Scottsdale|1|2008.0|online platforms and marketplaces
 4917|Neu Industries|1484494.0|Manufacturing|1484494|operating|USA|New York|1|2003.0|industrial
 4918|Neumitra|20000.0|Hardware + Software|20000|operating|USA|Boston|2|2009.0|technology
 4919|Neura|20000.0|Curated Web|2040000|operating|USA|Sunnyvale|3|2013.0|services
@@ -5091,7 +5091,7 @@
 5089|Octovis, Inc.|150000.0|Health Care|150000|operating|USA|Nashville|1|2014.0|healthcare
 5090|Oculus360|1499999.0|Analytics|1499999||USA|Addison|1|2012.0|technology
 5091|Ocutec|848882.0|Material Science|848882|operating|GBR|Bellshill|1|2001.0|industrial
-5092|Oddsfutures.com|288120.0|Finance|541296|operating|IRL|Dublin|2|2011.0|financials
+5092|Oddsfutures.com|288120.0|Finance|541296|operating|IRL|Dublin|2|2011.0|online platforms and marketplaces
 5093|Oddslife|268320.0|Social Games|983788|operating|GBR|London|2|2009.0|events, travels, leisure and entertainment
 5094|Odeeo|100000.0|Audio|100000|operating|||1|2013.0|events, travels, leisure and entertainment
 5095|OdinOtvet|500000.0|Networking|500000|closed|||1|2011.0|technology
@@ -5152,10 +5152,10 @@
 5150|OneAway|20000.0|Local|20000|operating|USA|Philadelphia|1|2011.0|other
 5151|OneDoc|250000.0|Curated Web|250000|operating|||1|2013.0|services
 5152|OneFold|720000.0|Big Data|720000|operating|USA|San Francisco|1|2013.0|technology
-5153|OneGoodLove.com|900000.0|Curated Web|900000|operating|USA|West Hollywood|1|2011.0|services
+5153|OneGoodLove.com|900000.0|Curated Web|900000|operating|USA|West Hollywood|1|2011.0|online platforms and marketplaces
 5154|OneMob|28000.0|Video|28000|operating|||1|2014.0|technology
 5155|OneRecruit|1000000.0|Software|1000000|operating|DNK|Copenhagen|1|2010.0|technology
-5156|OneRoomRate.com|1000000.0|Curated Web|4000000|closed|USA|Metuchen|2|2007.0|services
+5156|OneRoomRate.com|1000000.0|Curated Web|4000000|closed|USA|Metuchen|2|2007.0|online platforms and marketplaces
 5157|OneSeed Expeditions|40000.0|Travel|40000|operating|USA|Denver|1|2010.0|events, travels, leisure and entertainment
 5158|OneTok|1499998.0|Software|1499998|operating|USA|New York|1|2011.0|technology
 5159|OneTouch|150000.0|Enterprise Software|400000|operating|AUS|Melbourne|2|2011.0|technology
@@ -5333,7 +5333,7 @@
 5331|Pantry|1300000.0|Hardware + Software|1300000|operating|USA|San Francisco|1|2012.0|technology
 5332|PaperFlies|130277.0|Travel|130277|operating|NLD|Amsterdam|1|2012.0|events, travels, leisure and entertainment
 5333|PaperShare|1800000.0|Advertising|2400000|acquired|USA|Kirkland|2|2011.0|sales, marketing and advertising
-5334|Paperhater.com|40000.0|Business Services|40000|operating|CAN|Edmonton|1|2010.0|services
+5334|Paperhater.com|40000.0|Business Services|40000|operating|CAN|Edmonton|1|2010.0|online platforms and marketplaces
 5335|Papriika|15000.0|Networking|15000|operating|USA|New York|1|2011.0|technology
 5336|ParaShoot|150000.0|Video|150000|operating|||1|2013.0|technology
 5337|Parabase Genomics|970000.0|Health and Wellness|2970000|operating|USA|Hardwick|2|2009.0|healthcare
@@ -5347,7 +5347,7 @@
 5345|Parcel|1000000.0|Logistics|1000000|operating|USA|Brooklyn|1|2013.0|services
 5346|Parents Journey|40000.0|Social Media|40000|operating|||1|2013.0|online platforms and marketplaces
 5347|Parents R People|90000.0|Parenting|90000|closed|USA|Melville|1|2008.0|education
-5348|Park.com|250000.0|Mobile|250000|operating|USA|Bellevue|1|2009.0|consumer electronics
+5348|Park.com|250000.0|Mobile|250000|operating|USA|Bellevue|1|2009.0|online platforms and marketplaces
 5349|ParkTAG Social Parking|679638.0|Curated Web|679638|operating|DEU|Berlin|1|2012.0|services
 5350|Parking Panda|25000.0|Navigation|4725000|operating|USA|Baltimore|2|2011.0|services
 5351|Parko|1100000.0|Crowdsourcing|1100000|operating|ISR|Tel Aviv|1|2011.0|online platforms and marketplaces
@@ -5498,7 +5498,7 @@
 5496|PickPark|15574.0|Software|15574|closed|DEU|Würzberg|1|2008.0|technology
 5497|PickUpPal|798679.0|Public Transportation|798679|operating|||1|2007.0|services
 5498|Pickatale|1000000.0|iPad|1000000|operating|||1|2013.0|consumer electronics
-5499|PicketReport.com|130000.0|Technology|130000|operating|USA|Detroit|1|2011.0|technology
+5499|PicketReport.com|130000.0|Technology|130000|operating|USA|Detroit|1|2011.0|online platforms and marketplaces
 5500|Pickie|1000000.0|Finance|1000000|acquired|USA|New York|2|2012.0|financials
 5501|Picmonic|1400000.0|Education|2650000|operating|||2|2011.0|education
 5502|Picocent|35000.0|Curated Web|35000|operating|GRC||1|2009.0|services
@@ -5510,7 +5510,7 @@
 5508|Pictorious|25000.0|Photography|25000|operating|USA|New York|1|2011.0|events, travels, leisure and entertainment
 5509|Pied Piper|200000.0|SaaS|200000|operating|USA|Palo Alto|1|2014.0|services
 5510|Piehole|40000.0|E-Commerce|40000|operating|IRL|Dublin|1|2006.0|online platforms and marketplaces
-5511|Piethis.com|800000.0|Apps|800000|operating|SGP|Singapore|1|2013.0|technology
+5511|Piethis.com|800000.0|Apps|800000|operating|SGP|Singapore|1|2013.0|online platforms and marketplaces
 5512|Pigafe|66070.0|Social Travel|66070|operating|ESP|Madrid|1|2012.0|events, travels, leisure and entertainment
 5513|Pigeonly|1000000.0|Curated Web|2004999|operating|USA|Las Vegas|3|2012.0|services
 5514|Piggybackr|325000.0|Peer-to-Peer|325000|operating|USA|San Francisco|1|2011.0|online platforms and marketplaces
@@ -5612,7 +5612,7 @@
 5610|Plink Search|100000.0|Visual Search|100000|acquired|||1|2009.0|technology
 5611|Plivo|1750000.0|Mobile|1750000|operating|USA|San Francisco|1|2011.0|consumer electronics
 5612|Plix|400000.0|Games|400000|closed|||1|2011.0|events, travels, leisure and entertainment
-5613|Pllop.it|40000.0|Design|40000|operating|SVN|Ljubljana|1|2012.0|services
+5613|Pllop.it|40000.0|Design|40000|operating|SVN|Ljubljana|1|2012.0|online platforms and marketplaces
 5614|Ploog|15000.0|Consumer Electronics|277000|operating|||3|2013.0|consumer electronics
 5615|Ploonge|371370.0|Social Media|743180|operating|ITA|Milan|2|2012.0|online platforms and marketplaces
 5616|Plored|100000.0|Mobile|100000|operating|ARG|Buenos Aires|1|2013.0|consumer electronics
@@ -5775,13 +5775,13 @@
 5773|Pro 3 Games|259989.0|Social Media|259989|closed|AUT|Linz|1|2010.0|online platforms and marketplaces
 5774|Pro Player Connect|449964.0|Curated Web|449964|operating|USA|Nashville|1|2007.0|services
 5775|Pro Stream +|10000.0|Curated Web|10000|operating|BLR|Minsk|1|2009.0|services
-5776|Pro.com|3500000.0|Home & Garden|17500000|operating|USA|Seattle|2|2013.0|events, travels, leisure and entertainment
+5776|Pro.com|3500000.0|Home & Garden|17500000|operating|USA|Seattle|2|2013.0|online platforms and marketplaces
 5777|ProBinder|100000.0|Web Development|100000|operating|CHE|Basel|1|2009.0|technology
 5778|ProBueno|340000.0|Curated Web|340000|operating|USA|Cambridge|1|2012.0|services
 5779|ProFundCom|451490.0|Finance|451490|operating|GBR|London|1|2006.0|financials
 5780|ProRadis|22091.0|Diagnostics|22091|operating|BRA|São Paulo|1|2012.0|healthcare
 5781|ProSky, Inc.|200000.0|Recruiting|200000|operating|USA|San Francisco|1|2013.0|services
-5782|Problemcity.com|10000.0|Curated Web|10000|closed|CAN|Toronto|1|2011.0|services
+5782|Problemcity.com|10000.0|Curated Web|10000|closed|CAN|Toronto|1|2011.0|online platforms and marketplaces
 5783|Problemsolutions24|750000.0|Internet|750000|operating|BGD|Dhaka|1|2011.0|technology
 5784|Procam TV|2727452.0|Games|2727452|operating|GBR|London|1|1991.0|events, travels, leisure and entertainment
 5785|Process Relations|994000.0|Consulting|994000|operating|DEU|Dortmund|1|2007.0|services
@@ -5797,7 +5797,7 @@
 5795|Profoundis Labs|40000.0|Social Media|40000|operating|IND|Kochi|1|2012.0|online platforms and marketplaces
 5796|Profyle|350000.0|Online Dating|350000|operating|||1|2010.0|events, travels, leisure and entertainment
 5797|Programeter|315380.0|Software|315380|closed|EST|Tallinn|1|2006.0|technology
-5798|ProgrammerMeetDesigner.com|500000.0|Entrepreneur|500000|operating|USA|Los Angeles|1|2006.0|services
+5798|ProgrammerMeetDesigner.com|500000.0|Entrepreneur|500000|operating|USA|Los Angeles|1|2006.0|online platforms and marketplaces
 5799|Project Repat|20000.0|Fashion|20000|operating|USA|Boston|1|2010.0|other consumer retail
 5800|Project Travel|25000.0|Communities|725000|operating|USA|Boulder|2|2011.0|events, travels, leisure and entertainment
 5801|PromiseUP|210000.0|Mobile|210000|closed|RUS|Moscow|1|2012.0|consumer electronics
@@ -5974,7 +5974,7 @@
 5972|REMOTV|450000.0|Social Media|2700000|closed|USA|New Haven|3|2007.0|online platforms and marketplaces
 5973|RENTISH|15000.0|Real Estate|15000|operating|USA|New York|1|2013.0|financials
 5974|RESAAS|648414.0|Social Media Marketing|16447317|operating|CAN|Vancouver|11|2009.0|sales, marketing and advertising
-5975|REVENUE.com|1200000.0|Advertising|1759797|operating|USA|Santa Monica|2|2010.0|sales, marketing and advertising
+5975|REVENUE.com|1200000.0|Advertising|1759797|operating|USA|Santa Monica|2|2010.0|online platforms and marketplaces
 5976|REbound Technology LLC|40000.0|Clean Technology|40000|operating|USA|Boulder|1|2012.0|technology
 5977|REscour|100000.0|Commercial Real Estate|100000|operating|USA|Atlanta|1|2013.0|financials
 5978|RF Surgical Systems|120000.0|Health Care|29620000|operating|USA|Carlsbad|4|2004.0|healthcare
@@ -6070,7 +6070,7 @@
 6068|Rebls|225000.0|Information Services|269000|operating|USA|Seattle|2|2011.0|services
 6069|RecCheck, Inc.|25000.0|Health and Wellness|25000|operating|USA|Redwood City|1|2014.0|healthcare
 6070|Recargo|2000000.0|Automotive|2000000|operating|USA|Venice|1|2010.0|automotive
-6071|RecentPoker.com|450000.0|Games|450000|operating|||1|2004.0|events, travels, leisure and entertainment
+6071|RecentPoker.com|450000.0|Games|450000|operating|||1|2004.0|online platforms and marketplaces
 6072|Reciclata|40000.0|Clean Technology|40000|operating|NLD|Amsterdam|1|2011.0|technology
 6073|Reclamador|676644.0|Travel|1448554|operating|ESP|Madrid|3|2012.0|events, travels, leisure and entertainment
 6074|Reclog|31774.0|Social Media|31774|operating|||1|2013.0|online platforms and marketplaces
@@ -6109,7 +6109,7 @@
 6107|Reelio|1300000.0|Curated Web|2049999|operating|USA|New York|2|2012.0|services
 6108|Referly|1000000.0|Social Network Media|1300000|operating|USA|San Francisco|2|2012.0|online platforms and marketplaces
 6109|Referron|60000.0|Sales and Marketing|360000|operating|AUS|Sydney|2|2012.0|sales, marketing and advertising
-6110|RefferedAgent.com|275000.0|Real Estate|275000|closed|USA|Lucerne Valley|1|2002.0|financials
+6110|RefferedAgent.com|275000.0|Real Estate|275000|closed|USA|Lucerne Valley|1|2002.0|online platforms and marketplaces
 6111|Reffpedia|3500000.0|Web Tools|3500000|closed|||1|2010.0|technology
 6112|Refinery29|500000.0|Fashion|30400000|operating|USA|New York|4|2004.0|other consumer retail
 6113|Reflexion Health|4250000.0|Health and Wellness|11750000|operating|USA|San Diego|2|2012.0|healthcare
@@ -6146,7 +6146,7 @@
 6144|RentWiki|1300000.0|Real Estate|3730000|operating|USA|Atlanta|2|2008.0|financials
 6145|Rentabilities|50000.0|Real Estate|50000|operating|USA|Boston|1|2007.0|financials
 6146|Rental Kharma|15000.0|Personal Finance|15000|operating|USA|Denver|1|2011.0|financials
-6147|Rentalroost.com|250000.0|Big Data|250000|operating|USA|Pleasanton|1|2012.0|technology
+6147|Rentalroost.com|250000.0|Big Data|250000|operating|USA|Pleasanton|1|2012.0|online platforms and marketplaces
 6148|Rentamus|385980.0|Real Estate|385980|operating|ESP|Barcelona|1|2009.0|financials
 6149|RentersQ|45000.0|Real Estate|45000|operating|||1|2007.0|financials
 6150|Renthackr|40000.0|Marketplaces|40000|operating|USA|New York|1|2011.0|online platforms and marketplaces
@@ -6237,7 +6237,7 @@
 6235|RingMD|500000.0|Health Care|500000|operating|||1|2012.0|healthcare
 6236|RingTu|50000.0|Communications Hardware|50000|operating|||1|2013.0|technology
 6237|Ringio|100000.0|CRM|300000|operating|USA|Vienna|2|2009.0|sales, marketing and advertising
-6238|Ringleadr.com|500000.0|Curated Web|500000|operating|USA|New York|1|2010.0|services
+6238|Ringleadr.com|500000.0|Curated Web|500000|operating|USA|New York|1|2010.0|online platforms and marketplaces
 6239|Ringostat|150000.0|Analytics|150000|operating|UKR|Odessa|1|2011.0|technology
 6240|Ringpay|55000.0|Internet|55000|operating|GBR|London|1|2013.0|technology
 6241|Rip van Wafels|182000.0|Tea|182000|operating|USA|San Francisco|1|2010.0|food and beverage
@@ -6332,7 +6332,7 @@
 6330|Runfaces|300000.0|Mobile|300000||UKR|Kiev|1|2011.0|consumer electronics
 6331|Runnable Inc.|2000000.0|Software|2000000|operating|USA|San Francisco|2|2012.0|technology
 6332|Runnit|28433.0|Health and Wellness|28433|operating|GBR||1|2013.0|healthcare
-6333|Runrun.it|500000.0|Software|1500000|operating|BRA|São Paulo|2|2012.0|technology
+6333|Runrun.it|500000.0|Software|1500000|operating|BRA|São Paulo|2|2012.0|online platforms and marketplaces
 6334|Runscope|1100000.0|Developer APIs|7100000|operating|USA|San Francisco|2|2013.0|technology
 6335|Runtastic|214185.0|Sports|214185|operating|AUT|Pasching|3|2009.0|events, travels, leisure and entertainment
 6336|Rushmore.fm|50223.0|Music|50223||GBR|London|1|2011.0|events, travels, leisure and entertainment
@@ -6405,7 +6405,7 @@
 6403|SalesPortal|435000.0|Enterprise Software|4935000|operating|USA|Redwood City|2|2009.0|technology
 6404|SalesPredict|1000000.0|Predictive Analytics|5099999|operating|ISR|Netanya|2|2012.0|technology
 6405|Salesforce|4000000.0|Software|21000000|operating|USA|San Francisco|3|1999.0|technology
-6406|Salespush.com|290000.0|SaaS|290000|closed|GBR|London|2|2008.0|services
+6406|Salespush.com|290000.0|SaaS|290000|closed|GBR|London|2|2008.0|online platforms and marketplaces
 6407|Sallaty For Technology|50000.0|E-Commerce|50000|operating|JOR|Amman|1|2011.0|online platforms and marketplaces
 6408|Salmon Social|125000.0|Social Media Platforms|125000|operating|USA|South San Francisco|1|2014.0|online platforms and marketplaces
 6409|Salonmeister|407902.0|Online Reservations|407902|acquired|DEU|Berlin|2|2012.0|online platforms and marketplaces
@@ -6464,7 +6464,7 @@
 6462|SchoolFeed|1750000.0|Education|1750000|operating|||2|2013.0|education
 6463|SchoolMint|2200000.0|Communications Infrastructure|2200000|operating|USA|San Francisco|2|2013.0|industrial
 6464|Schoology|300000.0|Systems|25100000|operating|USA|New York|5|2009.0|technology
-6465|Schoooools.com|40000.0|Education|40000|operating|PRT|Porto|1|2008.0|education
+6465|Schoooools.com|40000.0|Education|40000|operating|PRT|Porto|1|2008.0|online platforms and marketplaces
 6466|SciAps|1300000.0|Hardware + Software|4800000|operating|USA|Woburn|3|2012.0|technology
 6467|Scicasts|250000.0|Analytics|250000|operating|GBR|London|1|2012.0|technology
 6468|Science Behind Sweat|50000.0|Analytics|50000|operating|USA|Durham|1|2011.0|technology
@@ -6522,7 +6522,7 @@
 6520|See Your Box|650000.0|Logistics|650000|operating|GBR|Hoddesdon|1|2013.0|services
 6521|SeeFuture|55000.0|Private Social Networking|55000|operating|USA|Baltimore|1|2013.0|other
 6522|SeeMe|2250000.0|Design|4100000|operating|USA|Long Island City|2|2012.0|services
-6523|SeeSaw.com|15027818.0|Advertising|31551894|acquired|||2|2007.0|sales, marketing and advertising
+6523|SeeSaw.com|15027818.0|Advertising|31551894|acquired|||2|2007.0|online platforms and marketplaces
 6524|SeeSpace|200000.0|Television|1200000|operating|USA|San Francisco|2|2013.0|consumer electronics
 6525|Seeding Labs|50000.0|Nonprofits|3050000|operating|USA|Boston|2|2007.0|no-profit and government
 6526|SeekPanda|50000.0|Marketplaces|50000|operating|CHN|Beijing|1|2014.0|online platforms and marketplaces
@@ -6548,7 +6548,7 @@
 6546|Semmle|2000000.0|Software|10000000|operating|GBR|Oxford|2|2006.0|technology
 6547|SendGrid|12000.0|Finance|47362000|operating|USA|Boulder|5|2009.0|financials
 6548|SendHub|2000000.0|SMS|10000000|operating|USA|Menlo Park|3|2011.0|technology
-6549|SendMeHome.com|50000.0|Entertainment|50000|closed|USA|Santa Barbara|1|2008.0|events, travels, leisure and entertainment
+6549|SendMeHome.com|50000.0|Entertainment|50000|closed|USA|Santa Barbara|1|2008.0|online platforms and marketplaces
 6550|Sendmebox|128571.0|E-Commerce|328571|operating|RUS|Rostov-on-don|2|2013.0|online platforms and marketplaces
 6551|Sendori|500000.0|Internet Marketing|2500000|acquired|USA|Oakland|2|2006.0|sales, marketing and advertising
 6552|Sendyou Inc.|560625.0|Apps|560625|operating|JPN|Tokyo|1|2014.0|technology
@@ -6578,7 +6578,7 @@
 6576|SetMeUp|500000.0|Social Media|500000|operating|||1|2012.0|online platforms and marketplaces
 6577|Settle|1500000.0|Payments|1500000|operating|UKR|Kiev|1|2014.0|financials
 6578|Sezion|54090.0|PaaS|54090|operating|||1|2011.0|services
-6579|Sfletter.com|25000.0|Data Security|25000|operating|||1|2014.0|technology
+6579|Sfletter.com|25000.0|Data Security|25000|operating|||1|2014.0|online platforms and marketplaces
 6580|Sgnam|64330.0|E-Commerce|64330|operating|ITA|Bologna|2|2012.0|online platforms and marketplaces
 6581|ShadesCases inc.|110000.0|Hardware + Software|110000|operating|USA|Centennial|2|2007.0|technology
 6582|Shadow Health|200000.0|Health and Wellness|2150000|operating|USA|Gainesville|5|2011.0|healthcare
@@ -6587,7 +6587,7 @@
 6585|Share Some Style|100000.0|Marketplaces|100000|operating|USA|San Francisco|1|2013.0|online platforms and marketplaces
 6586|Share Your Brain|15000.0|Curated Web|15000|operating|USA|San Diego|1|2005.0|services
 6587|Share0|50000.0|Social Media|50000|operating|JPN|Tokyo|1|2011.0|online platforms and marketplaces
-6588|ShareNotes.com|250000.0|Education|250000|operating|USA|Carlsbad|1|2008.0|education
+6588|ShareNotes.com|250000.0|Education|250000|operating|USA|Carlsbad|1|2008.0|online platforms and marketplaces
 6589|SharePlow|650000.0|Curated Web|650000|operating|||1|2009.0|services
 6590|ShareSquare|150000.0|Digital Media|416386|operating|USA|Los Angeles|2|2010.0|events, travels, leisure and entertainment
 6591|Shareable Ink|1500000.0|Enterprise Software|24700000|operating|USA|Nashville|5|2009.0|technology
@@ -6755,7 +6755,7 @@
 6753|SixIntel|250000.0|Software|250000|closed|USA|Washington|1|2011.0|technology
 6754|Skaffl|18000.0|K-12 Education|18000|operating|USA|Bethlehem|1|2012.0|education
 6755|Skeeble|212115.0|Mobile|212115|operating|CHE|Fribourg|1|2011.0|consumer electronics
-6756|SkiApps.com|750000.0|Twin-Tip Skis|750000|operating|USA|Briarcliff Manor|1|2011.0|events, travels, leisure and entertainment
+6756|SkiApps.com|750000.0|Twin-Tip Skis|750000|operating|USA|Briarcliff Manor|1|2011.0|online platforms and marketplaces
 6757|Skift|1100000.0|Media|1100000|operating|USA|New York|2|2012.0|online platforms and marketplaces
 6758|Skigit|30000.0|Brand Marketing|60000|operating|USA|Land O Lakes|2|2013.0|sales, marketing and advertising
 6759|Skill-Life|25000.0|Games|25000|closed|USA|Pittsburgh|2|2007.0|events, travels, leisure and entertainment
@@ -6765,7 +6765,7 @@
 6763|SkillSlate|1100000.0|Service Providers|1100000|acquired|USA|New York|1|2009.0|services
 6764|Skilljar|1100000.0|Training|1100000|operating|USA|Seattle|1|2013.0|events, travels, leisure and entertainment
 6765|Skillz|1300000.0|Games|16300000|operating|USA|Boston|5|2012.0|events, travels, leisure and entertainment
-6766|Skim.it|28437.0|Collaboration|28437|operating|GBR|London|1|2013.0|services
+6766|Skim.it|28437.0|Collaboration|28437|operating|GBR|London|1|2013.0|online platforms and marketplaces
 6767|Skimbl|11700.0|Hospitality|11700|operating|CHN|Shanghai|1|2012.0|no-profit and government
 6768|Skimble|20000.0|Android|20000|operating|USA|San Francisco|1|2010.0|technology
 6769|Skin Scan|68630.0|Biotechnology|68630|operating|ROM|Bucharest|1|2010.0|technology
@@ -6876,7 +6876,7 @@
 6874|Snyppit|521000.0|Mobile|521000|operating|SGP|Singapore|1|2012.0|consumer electronics
 6875|SoLatina|15000.0|Curated Web|15000|operating|||1|2010.0|services
 6876|SoNetJob|95851.0|Curated Web|95851|operating|FRA|La Garenne-colombes|2|2012.0|services
-6877|SoStupid.com|50000.0|Entertainment|50000|operating|USA|New York|1|2010.0|events, travels, leisure and entertainment
+6877|SoStupid.com|50000.0|Entertainment|50000|operating|USA|New York|1|2010.0|online platforms and marketplaces
 6878|SoThree|1500000.0|Media|1500000|operating|USA|San Francisco|1|2012.0|online platforms and marketplaces
 6879|SoapBox Soaps|100000.0|E-Commerce|1355000|operating|USA|Alexandria|3|2010.0|online platforms and marketplaces
 6880|Soapbox Mobile|125000.0|SMS|10125000|operating|USA|Carlsbad|3|2004.0|technology
@@ -6905,7 +6905,7 @@
 6903|SocialDiabetes|200478.0|Mobile|200478|operating|ESP|Barcelona|1|2012.0|consumer electronics
 6904|SocialEngine|12000.0|Software|12000|acquired|USA|Los Angeles|1|2007.0|technology
 6905|SocialGuides|20000.0|Software|20000|operating|||1|2009.0|technology
-6906|SocialMedia.com|500000.0|Facebook Applications|10000000|acquired|USA|San Francisco|3|2007.0|technology
+6906|SocialMedia.com|500000.0|Facebook Applications|10000000|acquired|USA|San Francisco|3|2007.0|online platforms and marketplaces
 6907|SocialMedia305|35000.0|News|35000|operating|USA|Miami|1|2010.0|events, travels, leisure and entertainment
 6908|SocialMeterTV|40000.0|Social Media|40000|operating|CHL|Santiago|1|2011.0|online platforms and marketplaces
 6909|SocialProof|500000.0|Business Services|2800000|operating|USA|Detroit|2|2010.0|services
@@ -6949,7 +6949,7 @@
 6947|Solidarium|100000.0|Handmade|100000|operating|BRA|Paraná|1|2007.0|events, travels, leisure and entertainment
 6948|Solidmation|25000.0|Home Automation|25000|operating|ARG|Buenos Aires|1|2011.0|technology
 6949|SoloStocks|1929900.0|B2B|2285900|operating|ESP|Barcelona|2|1999.0|industrial
-6950|Soloingles.com Internacional|250000.0|Education|250000|operating|ARG|Buenos Aires|1|2002.0|education
+6950|Soloingles.com Internacional|250000.0|Education|250000|operating|ARG|Buenos Aires|1|2002.0|online platforms and marketplaces
 6951|Sols|1753219.0|Curated Web|8153219|operating|USA|New York|2|2013.0|services
 6952|Solum|2000000.0|Software|23500000|acquired|USA|Ames|3|2009.0|technology
 6953|Soluto|1600000.0|Software|18000000|acquired|ISR|Tel Aviv|3|2008.0|technology
@@ -7041,7 +7041,7 @@
 7039|Spins.FM|175000.0|Games|250000|operating|USA|New York|2|2010.0|events, travels, leisure and entertainment
 7040|Spinzo|750000.0|Digital Media|1150000|operating|CAN|Saint John|2|2011.0|events, travels, leisure and entertainment
 7041|Spire Sensibo|150000.0|Internet|220000|operating|||2|2013.0|technology
-7042|SpiritShop.com|1250000.0|Fashion|1250000|operating|USA|Detroit|1|2005.0|other consumer retail
+7042|SpiritShop.com|1250000.0|Fashion|1250000|operating|USA|Detroit|1|2005.0|online platforms and marketplaces
 7043|Splashup|10000.0|Curated Web|10000|closed|||1|2007.0|services
 7044|Splice|2750000.0|Music|7250000|operating|USA|New York|2|2013.0|events, travels, leisure and entertainment
 7045|Splinter.me|20000.0|Recruiting|20000|operating|EGY|Alexandria|1|2011.0|services
@@ -7058,7 +7058,7 @@
 7056|Spoonfed|160394.0|Career Planning|949605|operating|GBR|London|2|2006.0|services
 7057|Spootr Inc.|6500.0|University Students|6500|operating|CAN|Ottawa|1|2014.0|education
 7058|SportCentral|50000.0|Sports|50000|operating|CZE|Plzen|1|2012.0|events, travels, leisure and entertainment
-7059|SportEmp.com|129390.0|Sports|129390|operating|GBR|Axbridge|1|2012.0|events, travels, leisure and entertainment
+7059|SportEmp.com|129390.0|Sports|129390|operating|GBR|Axbridge|1|2012.0|online platforms and marketplaces
 7060|SportID|40000.0|Sports|40000|operating|EST|Tartu|1|2012.0|events, travels, leisure and entertainment
 7061|SportStylist|10000.0|Social Buying|10000|operating|GBR|London|1|2013.0|online platforms and marketplaces
 7062|Sportamba|45000.0|Mobile Advertising|45000|operating|||1|2014.0|sales, marketing and advertising
@@ -7072,7 +7072,7 @@
 7070|Sports Weather Media|100000.0|Sports|100000|closed|||1|2011.0|events, travels, leisure and entertainment
 7071|Sports.ws|200000.0|Sports|200000|operating|||1|1999.0|events, travels, leisure and entertainment
 7072|SportsBUZZ|2000000.0|Entertainment|2000000|operating|USA|Ashburn|1|2010.0|events, travels, leisure and entertainment
-7073|SportsBeat.com|400000.0|Sports|400000|operating|USA|Newport Beach|1|2011.0|events, travels, leisure and entertainment
+7073|SportsBeat.com|400000.0|Sports|400000|operating|USA|Newport Beach|1|2011.0|online platforms and marketplaces
 7074|SportsBeep|485000.0|Fantasy Sports|485000|operating|USA|Bloomfield|1|2013.0|events, travels, leisure and entertainment
 7075|SportsHedge|115000.0|Game|465000|operating|CAN|Toronto|2|2012.0|events, travels, leisure and entertainment
 7076|Sportube|647250.0|Sports|647250|operating|ITA|Roma|1|2010.0|events, travels, leisure and entertainment
@@ -7128,9 +7128,9 @@
 7126|Stackpop|500000.0|Enterprise Software|870000|operating|USA|New York|2|2011.0|technology
 7127|Stadius|250000.0|Messaging|250000||USA|Seattle|1|2012.0|online platforms and marketplaces
 7128|Stageit|40000.0|Internet|40000|operating|USA|Los Angeles|1|2010.0|technology
-7129|Stagend.com|100000.0|Nightclubs|100000|operating|CHE|Lugano|1|2010.0|events, travels, leisure and entertainment
+7129|Stagend.com|100000.0|Nightclubs|100000|operating|CHE|Lugano|1|2010.0|online platforms and marketplaces
 7130|Stakeforce|10000.0|Sustainability|10000|closed|USA|San Diego|1|2009.0|animals, plants and environment
-7131|Stamp.it|225000.0|Retail|225000|operating|GBR|London|1|2012.0|other consumer retail
+7131|Stamp.it|225000.0|Retail|225000|operating|GBR|London|1|2012.0|online platforms and marketplaces
 7132|Stamplay|64300.0|Software|227668|operating|GBR|London|2|2012.0|technology
 7133|Stampsy|730000.0|Curated Web|755000||HKG|Wan Chai|2|2012.0|services
 7134|Stand In|118000.0|Design|118000|operating|USA|Portland|2|2013.0|services
@@ -7138,7 +7138,7 @@
 7136|Standing Cloud|2000003.0|Enterprise Software|10500003|acquired|USA|Boulder|6|2009.0|technology
 7137|Staq.|1125000.0|Advertising|3625000|operating|USA|New York|2|2012.0|sales, marketing and advertising
 7138|Star Stable Entertainment AB|179232.0|Games|179232|operating|SWE|Stockholm|1|2010.0|events, travels, leisure and entertainment
-7139|StarBlock.com|250000.0|Technology|250000|operating|USA|Waconia|1|2012.0|technology
+7139|StarBlock.com|250000.0|Technology|250000|operating|USA|Waconia|1|2012.0|online platforms and marketplaces
 7140|Starbates|20000.0|Coupons|20000|closed|USA|Fullerton|1|2012.0|other consumer retail
 7141|Starfish 360|333355.0|Curated Web|333355|operating|GBR|Wilmslow|1|2010.0|services
 7142|StartDate Labs|2430000.0|Software|4454995|operating|USA|Lebanon|3|2010.0|technology
@@ -7153,7 +7153,7 @@
 7151|Startups|2300000.0|Consulting|2300000|operating|USA||1|2005.0|services
 7152|Startupxplore|135969.0|Venture Capital|135969|operating|ESP|Valencia|1|2014.0|financials
 7153|StashMetrics|107504.0|Analytics|107504|operating|GBR|London|2|2014.0|technology
-7154|StatSims.com|663800.0|Games|663800|operating|USA|Indianapolis|1|2011.0|events, travels, leisure and entertainment
+7154|StatSims.com|663800.0|Games|663800|operating|USA|Indianapolis|1|2011.0|online platforms and marketplaces
 7155|StatSocial|1100000.0|Analytics|1100000|operating|USA|New York|1|2012.0|technology
 7156|State|163510.0|Social Media|14163510|operating|GBR|London|3|2010.0|online platforms and marketplaces
 7157|State of Ambition|94754.0|Nonprofits|213370|operating|||3|2013.0|no-profit and government
@@ -7291,7 +7291,7 @@
 7289|Supersonic|2000000.0|Mobile|23200000|operating|USA|San Bruno|3|2009.0|consumer electronics
 7290|SupplyBid|200000.0|E-Commerce|1700000|operating|USA|Commerce|2|2013.0|online platforms and marketplaces
 7291|SupplyFrame|2000000.0|Innovation Engineering|15500000|operating|USA|Pasadena|4|2003.0|industrial
-7292|SupplySeeker.com|100000.0|Public Relations|100000|closed|USA|New York|1|2012.0|sales, marketing and advertising
+7292|SupplySeeker.com|100000.0|Public Relations|100000|closed|USA|New York|1|2012.0|online platforms and marketplaces
 7293|SupplyStream|528885.0|Distributors|528885|operating|||1|2011.0|services
 7294|SupportPay|200000.0|Families|1300000|operating|USA|Santa Clara|2|2011.0|other consumer retail
 7295|Supportie|50000.0|Software|50000|operating|||1|2013.0|technology
@@ -7314,7 +7314,7 @@
 7312|Sush.io|325000.0|Curated Web|325000|operating|GBR|London|1|2012.0|services
 7313|Sustainable Energy & Agriculture Technology|150000.0|Clean Technology|150000|operating|USA|Sahuarita|1|2014.0|technology
 7314|Sustainable Industrial Solutions|300000.0|Sustainability|300000|operating|USA|Durham|1|2011.0|animals, plants and environment
-7315|Sustainatopia.com|40000.0|News|40000|operating|USA|Miami|1|2010.0|events, travels, leisure and entertainment
+7315|Sustainatopia.com|40000.0|News|40000|operating|USA|Miami|1|2010.0|online platforms and marketplaces
 7316|SvitStyle|70000.0|Fashion|70000|operating|UKR|Lviv|1|2012.0|other consumer retail
 7317|Svpply|550000.0|Curated Web|550000|acquired|USA|New York|1|2009.0|services
 7318|Swank|300000.0|Marketplaces|300000|operating|USA|Anaheim|1|2013.0|online platforms and marketplaces
@@ -7338,7 +7338,7 @@
 7336|Swiftype|1700000.0|Real Time|9200000|operating|USA|San Francisco|3|2012.0|technology
 7337|SwipeLoyalty|20000.0|Mobile Payments|20000|operating|USA|Atlanta|1|2014.0|financials
 7338|Swoon Editions|1818301.0|E-Commerce|8620520|operating|GBR|London|2|2012.0|online platforms and marketplaces
-7339|Sword.com|1000000.0|Curated Web|1000000|operating|USA|New York|1|2010.0|services
+7339|Sword.com|1000000.0|Curated Web|1000000|operating|USA|New York|1|2010.0|online platforms and marketplaces
 7340|Swrve|2700000.0|Marketing Automation|21139440|operating|USA|San Francisco|4|2011.0|sales, marketing and advertising
 7341|Swyft|300000.0|Transportation|300000|operating|||1|2014.0|services
 7342|Swyft Media|1000000.0|Brand Marketing|1000000|operating|USA|New York|1|2012.0|sales, marketing and advertising
@@ -7368,7 +7368,7 @@
 7366|T-ZONE|1333.0|E-Commerce|12999|operating|BGD|Dhaka|4|2012.0|online platforms and marketplaces
 7367|T3D Therapeutics|437000.0|Biotechnology|1097997|operating|USA|Durham|2|2013.0|technology
 7368|TAPTAP Networks|756580.0|Mobile|5256580|operating|ESP|Madrid|2|2010.0|consumer electronics
-7369|TARDIS-BOX.com|110000.0|File Sharing|110000|operating|USA|Deerfield Beach|1|2014.0|technology
+7369|TARDIS-BOX.com|110000.0|File Sharing|110000|operating|USA|Deerfield Beach|1|2014.0|online platforms and marketplaces
 7370|TAXI5.pl|610000.0|Mobile|610000|operating|POL|Wroclaw|1|2012.0|consumer electronics
 7371|TCAS Online|836290.0|Software|836290|operating|GBR||1|2000.0|technology
 7372|TE2|3500000.0|Software|3500000|operating|USA|San Diego|1|2013.0|technology
@@ -7404,7 +7404,7 @@
 7402|TabbedOut|500000.0|Mobile Payments|17510353|operating|USA|Austin|5|2009.0|financials
 7403|Tabfoundry|10000.0|Advertising|10000|operating|CZE|Prague|1|2012.0|sales, marketing and advertising
 7404|TableSafe|956072.0|Restaurants|9456072|operating|USA|Kirkland|3|2010.0|events, travels, leisure and entertainment
-7405|Tabletize.com|132332.0|Mobile Software Tools|132332|operating|ITA|Milan|1|2012.0|technology
+7405|Tabletize.com|132332.0|Mobile Software Tools|132332|operating|ITA|Milan|1|2012.0|online platforms and marketplaces
 7406|Tablo|200000.0|Open Source|200000|closed|||1|2010.0|technology
 7407|Tabtor|1000000.0|Education|1000000|operating|USA|Kendall Park|1|2010.0|education
 7408|Tacatì|1286600.0|E-Commerce|1286600|operating|ITA|Asti|1|2012.0|online platforms and marketplaces
@@ -7493,18 +7493,18 @@
 7491|TareasPlus|850000.0|Tutoring|850000|operating|USA|San Francisco|1|2012.0|education
 7492|Targeter App|40000.0|Internet Marketing|40000|operating|||1|2012.0|sales, marketing and advertising
 7493|Tarisa|100000.0|Marketplaces|100000|operating|SGP|Singapore|1|2014.0|online platforms and marketplaces
-7494|Tasit.com|200000.0|Internet|200000|operating|TUR|Istanbul|3|2010.0|technology
+7494|Tasit.com|200000.0|Internet|200000|operating|TUR|Istanbul|3|2010.0|online platforms and marketplaces
 7495|Task Messenger|15000.0|Cloud Computing|15000|operating|IRL|Dublin|1|2013.0|technology
 7496|Task Spotting Inc.|200000.0|Crowdsourcing|200000|operating|ARE|Dubai|1|2014.0|online platforms and marketplaces
 7497|TaskEasy|2621250.0|Software|9621250|operating|USA|Salt Lake City|3|2011.0|technology
 7498|TaskIT, Inc.|400000.0|Corporate IT|400000|operating|USA|Los Gatos|1|2012.0|technology
-7499|Taskhero.com|35000.0|Curated Web|35000|operating|USA|San Diego|1|2012.0|services
+7499|Taskhero.com|35000.0|Curated Web|35000|operating|USA|San Diego|1|2012.0|online platforms and marketplaces
 7500|Taskhub|63398.0|E-Commerce Platforms|63398|operating|GBR|London|2|2012.0|online platforms and marketplaces
 7501|Taskmit|18316.0|Curated Web|18316|closed|GBR|Sunderland Bridge|1|2010.0|services
 7502|TasteSpace|300000.0|Search|300000|closed|USA|New York|1|2007.0|technology
 7503|Tastebuds|600000.0|Music|600000|operating|GBR|London|1|2010.0|events, travels, leisure and entertainment
 7504|Tastemaker|1620985.0|Design|2920985|operating|USA|San Francisco|2|2012.0|services
-7505|TastyNow.com|25000.0|Hospitality|25000|closed|USA|San Antonio|1|2009.0|no-profit and government
+7505|TastyNow.com|25000.0|Hospitality|25000|closed|USA|San Antonio|1|2009.0|online platforms and marketplaces
 7506|Tatango|350000.0|Messaging|600000|operating|USA|Bellingham|2|2007.0|online platforms and marketplaces
 7507|Tattoodo|450000.0|Blogging Platforms|450000|operating|DNK|Copenhagen|1|2013.0|online platforms and marketplaces
 7508|TaxJar|600000.0|E-Commerce|600000|operating|USA|San Diego|1|2013.0|online platforms and marketplaces
@@ -7658,15 +7658,15 @@
 7656|TheBlogTV|102056.0|Social Business|13308556|operating|ESP|Madrid|4|2006.0|online platforms and marketplaces
 7657|TheCreator.ME|400000.0|Home & Garden|400000|operating|CHN|Beijing|1|2010.0|events, travels, leisure and entertainment
 7658|TheFanLeague|25000.0|Mobile Games|25000|operating|||1|2013.0|events, travels, leisure and entertainment
-7659|TheFix.com|500000.0|News|2900000|operating|USA|New York|2|2010.0|events, travels, leisure and entertainment
+7659|TheFix.com|500000.0|News|2900000|operating|USA|New York|2|2010.0|online platforms and marketplaces
 7660|TheLocker|1125000.0|E-Commerce|1125000|operating|USA|Weymouth|1|2013.0|online platforms and marketplaces
 7661|TheOfficialBoard|150000.0|Web Tools|150000|operating|FRA|Saint-cloud|1|2008.0|technology
 7662|TheRanking.com|4000000.0|Social Media|4000000|operating|ESP|Madrid|1|2011.0|online platforms and marketplaces
 7663|TheRouteBox|81018.0|Online Travel|81018|operating|ESP|Barcelona|1|2011.0|events, travels, leisure and entertainment
-7664|TheSedge.org|40000.0|Finance|40000|operating|CAN|Calgary|1|2013.0|financials
+7664|TheSedge.org|40000.0|Finance|40000|operating|CAN|Calgary|1|2013.0|online platforms and marketplaces
 7665|TheSquareFoot|40000.0|Office Space|465000|operating|USA|New York|3|2010.0|industrial
 7666|TheTakes|40000.0|Cloud Management|40000|operating|RUS|Moscow|1|2012.0|technology
-7667|TheVegibox.com|32155.0|Local|32155|closed|GBR|Lymington|1|2011.0|other
+7667|TheVegibox.com|32155.0|Local|32155|closed|GBR|Lymington|1|2011.0|online platforms and marketplaces
 7668|TheWrap|500000.0|Blogging Platforms|3500000|operating|USA|Santa Monica|3|2008.0|online platforms and marketplaces
 7669|Thelial Technologies|392584.0|Biotechnology|477133|operating|PRT|Lisbon|2|2009.0|technology
 7670|Theorem|120000.0|Shopping|120000|operating|USA|San Francisco|1|2013.0|other consumer retail
@@ -7704,7 +7704,7 @@
 7702|Thumbs Up|50000.0|Television|50000|operating|USA|Providence|1|2011.0|consumer electronics
 7703|Tiberium|98064.0|Software|98064|closed|GBR|Milton Keynes|1|2004.0|technology
 7704|Ticket Evolution|1700000.0|Software|5200000|operating|USA|New York|2|2010.0|technology
-7705|TicketGoose.com|560000.0|Travel|7413693|operating|IND|Chennai|3|2007.0|events, travels, leisure and entertainment
+7705|TicketGoose.com|560000.0|Travel|7413693|operating|IND|Chennai|3|2007.0|online platforms and marketplaces
 7706|TicketLabs|120000.0|Apps|120000|operating|CAN|Waterloo|1|2014.0|technology
 7707|Tictail|1567560.0|Curated Web|10567560|operating|SWE|Stockholm|4|2012.0|services
 7708|Tidal|500000.0|Marketplaces|500000|operating|||2|2011.0|online platforms and marketplaces
@@ -7797,7 +7797,7 @@
 7795|TowerMetriX|836000.0|Software|1736000|operating|USA|Wexford|2|2009.0|technology
 7796|TownHog|1877298.0|E-Commerce|3889364|acquired|USA|San Francisco|3|2007.0|online platforms and marketplaces
 7797|TownWizard|125000.0|Apps|246850|operating|USA|Scarsdale|2|2011.0|technology
-7798|Toygaroo.com|50000.0|Toys|250000|closed|USA|Los Angeles|2|2010.0|other consumer retail
+7798|Toygaroo.com|50000.0|Toys|250000|closed|USA|Los Angeles|2|2010.0|online platforms and marketplaces
 7799|Traansmission|40000.0|Location Based Services|40000|operating|USA|New York|1|2013.0|services
 7800|TrabajoPanel|40000.0|Enterprise Software|40000|operating|CHL|Santiago|1|2013.0|technology
 7801|Trace Technologies|500000.0|Big Data|1680000|operating|GBR||2|2002.0|technology
@@ -7980,7 +7980,7 @@
 7978|Tweetwall|165000.0|Twitter Applications|165000|operating|USA|Providence|1|2009.0|technology
 7979|Tweetworks|50000.0|Messaging|50000|operating|USA|Westborough|1|2008.0|online platforms and marketplaces
 7980|Twenga|3837860.0|Advertising|3837860|operating|GBR|London|1|2006.0|sales, marketing and advertising
-7981|Twenty20.com|1700000.0|Photo Sharing|1700000|operating|USA|Marina Del Rey|2|2012.0|events, travels, leisure and entertainment
+7981|Twenty20.com|1700000.0|Photo Sharing|1700000|operating|USA|Marina Del Rey|2|2012.0|online platforms and marketplaces
 7982|TwentyFour6|65000.0|Advertising|65000|closed|USA|Chicago|1|2008.0|sales, marketing and advertising
 7983|TwentyPeople|13755.0|Search|13755|operating|GBR|London|1|2011.0|technology
 7984|Twibingo|50000.0|Game|50000|closed|USA|New York|1|2009.0|events, travels, leisure and entertainment
@@ -8095,7 +8095,7 @@
 8093|Urgent.ly|510000.0|Software|1710000|operating|USA|Sterling|2|2013.0|technology
 8094|UroSens|1136438.0|Biotechnology|1136438|operating|GBR|Cambridge|1|2007.0|technology
 8095|Uruut|200000.0|Software|200000|operating|USA|Atlanta|1|2013.0|technology
-8096|UsabilityTools.com|250000.0|User Experience Design|250000|operating|||1|2010.0|technology
+8096|UsabilityTools.com|250000.0|User Experience Design|250000|operating|||1|2010.0|online platforms and marketplaces
 8097|Usarium|50000.0|Collaborative Consumption|50000|operating|RUS|Moscow|1|2013.0|technology
 8098|Use It Better|40000.0|Cloud Computing|40000||POL|Gdansk|1|2009.0|technology
 8099|UseTogether|38484.0|Social Media|38484|operating|ROM|Cluj|1|2012.0|online platforms and marketplaces
@@ -8196,7 +8196,7 @@
 8194|Vessix|50000.0|Software|50000|closed|USA|Denver|1|2011.0|technology
 8195|Vestor|25000.0|Real Estate|25000|operating|USA|Cleveland|1|2014.0|financials
 8196|Vestorly|2000000.0|Enterprise Software|2000000|operating|USA|New York|1|2012.0|technology
-8197|VeteranCentral.com|150000.0|DOD/Military|150000|closed|USA|Washington|1|2011.0|industrial
+8197|VeteranCentral.com|150000.0|DOD/Military|150000|closed|USA|Washington|1|2011.0|online platforms and marketplaces
 8198|Vettery|1225000.0|Enterprises|1225000|operating|USA|New York|1|2012.0|industrial
 8199|Vezma|383940.0|Public Transportation|383940|operating|SVK|Bratislava|1|2011.0|services
 8200|ViFlux|25000.0|Photography|25000|operating|ARG|Buenos Aires|1|2012.0|events, travels, leisure and entertainment
@@ -8302,9 +8302,9 @@
 8300|Voltaic Coatings|40000.0|Clean Technology|40000|operating|USA|Newark|1|2011.0|technology
 8301|Voltera|25000.0|Electronics|25000|operating|CAN|Waterloo|1|2013.0|consumer electronics
 8302|Volumental|3000000.0|Mass Customization|3000000|operating|SWE|Stockholm|1|2012.0|sales, marketing and advertising
-8303|Vonvo.com|100000.0|Video Chat|100000|operating|USA|Manhattan|1|2012.0|technology
+8303|Vonvo.com|100000.0|Video Chat|100000|operating|USA|Manhattan|1|2012.0|online platforms and marketplaces
 8304|Vook|2500000.0|Digital Media|7750000|operating|USA|New York|2|2009.0|events, travels, leisure and entertainment
-8305|Voonik.com|500000.0|Lifestyle|500000|operating|IND|Bengaluru|1|2013.0|events, travels, leisure and entertainment
+8305|Voonik.com|500000.0|Lifestyle|500000|operating|IND|Bengaluru|1|2013.0|online platforms and marketplaces
 8306|Voovio aka 3Ditize|700000.0|Industrial|3200000|operating|USA|Houston|3|2008.0|industrial
 8307|Vostu|1300000.0|Games|49114248|operating|ARG|Buenos Aires|6|2007.0|events, travels, leisure and entertainment
 8308|VoteIt|800000.0|Social Media|800000|operating|USA|New Orleans|1|2011.0|online platforms and marketplaces
@@ -8356,7 +8356,7 @@
 8354|Wabi Sabi Eco Fashion Concept|100000.0|Specialty Retail|100000|operating|USA|Atlantic City|1|2011.0|other consumer retail
 8355|Wable Systems|50000.0|Hardware + Software|50000|operating|ROM|Bucharest|1|2013.0|technology
 8356|Wabrikworks|133000.0|Hardware + Software|133000|operating|||1|2011.0|technology
-8357|Waffl.com|350000.0|Travel|350000|operating|USA|Jersey City|1|2009.0|events, travels, leisure and entertainment
+8357|Waffl.com|350000.0|Travel|350000|operating|USA|Jersey City|1|2009.0|online platforms and marketplaces
 8358|Waggl|1100000.0|Internet|1100000|operating|||1|2014.0|technology
 8359|Wagon|2000000.0|Data Visualization|2000000|operating|||2|2014.0|technology
 8360|Wahanda|2958333.0|Beauty|37627440|operating|USA|New York|3|2008.0|events, travels, leisure and entertainment
@@ -8428,7 +8428,7 @@
 8426|WePow|2500000.0|Career Management|5400000|operating|USA|Sunnyvale|4|2011.0|services
 8427|WeStudy.In|300000.0|Education|510000|operating|RUS|Moscow|2|2013.0|education
 8428|WeStyle|253000.0|Social Commerce|313000|operating|USA|Lexington|2|2013.0|online platforms and marketplaces
-8429|WeSwap.com|775838.0|Travel|10025277|operating|GBR|London|3|2010.0|events, travels, leisure and entertainment
+8429|WeSwap.com|775838.0|Travel|10025277|operating|GBR|London|3|2010.0|online platforms and marketplaces
 8430|WealthForge|500000.0|Crowdfunding|3000000|operating|USA|Richmond|2|2009.0|online platforms and marketplaces
 8431|Wealthsimple|1900000.0|Finance|1900000|operating|CAN|Toronto|1|2014.0|financials
 8432|Weatherista|500000.0|News|500000|closed|USA|San Francisco|1|2010.0|events, travels, leisure and entertainment
@@ -8482,7 +8482,7 @@
 8480|WhereInFair|40000.0|Search|40000|operating|GBR|London|1|2013.0|technology
 8481|WheresTheBus|375000.0|Software|375000|operating|USA|Wayland|1|2012.0|technology
 8482|Wheretoget|2000000.0|Shopping|2275000|operating|FRA|Paris|2|2011.0|other consumer retail
-8483|WhichSocial.com|161671.0|Software|161671|operating|GBR|Manchester|1|2012.0|technology
+8483|WhichSocial.com|161671.0|Software|161671|operating|GBR|Manchester|1|2012.0|online platforms and marketplaces
 8484|Whim|100000.0|Private Social Networking|200000|operating|USA|San Francisco|2|2013.0|other
 8485|Whimseybox|75000.0|DIY|75000|operating|USA|Boulder|2|2011.0|other consumer retail
 8486|Whisher|1815600.0|Mobile|3159200|acquired|ESP|Barcelona|2|2006.0|consumer electronics
@@ -8496,7 +8496,7 @@
 8494|Whitetruffle|1200000.0|Employment|1600000|operating|USA|San Francisco|2|2011.0|services
 8495|Whiteyboard|500000.0|Hardware + Software|500000|operating|||1|2010.0|technology
 8496|Who Works Around You|50000.0|Mobile|50000|operating|SGP|Singapore|1|2007.0|consumer electronics
-8497|Who-Sells-it.com|50000.0|Web Development|50000|operating|CHE|Herisau|1|2006.0|technology
+8497|Who-Sells-it.com|50000.0|Web Development|50000|operating|CHE|Herisau|1|2006.0|online platforms and marketplaces
 8498|Who@|2200000.0|Networking|2200000|operating|USA|San Francisco|1|2012.0|technology
 8499|WhoWanna|100000.0|Proximity Internet|100000|operating|FRA|Nantes|1|2013.0|technology
 8500|Whodini|2000000.0|Natural Language Processing|3800000||USA|Los Altos|2|2010.0|technology
@@ -8527,7 +8527,7 @@
 8525|Wildflower Health|100000.0|Mobile|1805790|operating|USA|San Francisco|2|2012.0|consumer electronics
 8526|Win Win Slots|500000.0|Gambling|500000|operating|USA|Kenansville|1|2012.0|events, travels, leisure and entertainment
 8527|Win the Planet|40000.0|Games|40000|operating|CHL|Santiago|1|2009.0|events, travels, leisure and entertainment
-8528|WinLoot.com|100000.0|Games|100000|operating|USA|Hauppauge|1|2013.0|events, travels, leisure and entertainment
+8528|WinLoot.com|100000.0|Games|100000|operating|USA|Hauppauge|1|2013.0|online platforms and marketplaces
 8529|WinWeb|7025772.0|Software|13911515|operating|GBR|London|2|1994.0|technology
 8530|Windowfarms|80000.0|Clean Technology|80000|operating|USA|Brooklyn|2|2010.0|technology
 8531|WineDemon|796760.0|iPhone|796760|operating|GBR|Norwich|1|2011.0|consumer electronics
@@ -8565,7 +8565,7 @@
 8563|WolfGIS|500000.0|Public Transportation|500000|operating|USA|Pell City|1|2011.0|services
 8564|Wolfpack Chassis|755000.0|Manufacturing|755000|operating|USA|Kendallville|1|2011.0|industrial
 8565|WomStreet|35000.0|Advertising|35000|operating|USA|Madison|1|2012.0|sales, marketing and advertising
-8566|Women.com|120000.0|Entertainment|120000|operating|USA|Los Angeles|1|2012.0|events, travels, leisure and entertainment
+8566|Women.com|120000.0|Entertainment|120000|operating|USA|Los Angeles|1|2012.0|online platforms and marketplaces
 8567|WomenCentric|15270.0|Social Media|15270|operating|USA|Pomona|1|2005.0|online platforms and marketplaces
 8568|Wonder Technologies|795500.0|Gift Card|795500|operating|USA|Laguna Beach|1|2013.0|other consumer retail
 8569|Wonder Workshop (Formerly Play-i)|1000000.0|Hardware + Software|10440000|operating|USA|San Mateo|3|2012.0|technology
@@ -8573,7 +8573,7 @@
 8571|Wonderflow|20658.0|Internet|20658|operating|NLD|Amsterdam|1|2013.0|technology
 8572|Wondershake|360000.0|Curated Web|360000|operating|JPN||1|2009.0|services
 8573|Wonderswamp|32337.0|Games|64858|operating|BGR|Sofia|2|2011.0|events, travels, leisure and entertainment
-8574|Wooboard.com|250000.0|Human Resources|700000|operating|AUS|Surry Hills|2|2011.0|services
+8574|Wooboard.com|250000.0|Human Resources|700000|operating|AUS|Surry Hills|2|2011.0|online platforms and marketplaces
 8575|WoofRadar|400000.0|Pets|400000|closed|USA|San Francisco|1|2013.0|animals, plants and environment
 8576|Wooga|700000.0|Game|32200000|operating|DEU|Berlin|3|2009.0|events, travels, leisure and entertainment
 8577|Wool and the Gang|2800000.0|E-Commerce|2800000|operating|GBR|London|1|2008.0|online platforms and marketplaces
@@ -8659,7 +8659,7 @@
 8657|YaBeam|150000.0|NFC|150000|operating|USA|Denver|1|2012.0|technology
 8658|YaData|300000.0|Analytics|4300000|acquired|ISR|Tel Aviv|2|2005.0|technology
 8659|YaSabe|2700000.0|Local|4601314|operating|||3|2009.0|other
-8660|Yachtico.com Yacht Charter & Boat Rental|1000000.0|Online Travel|1000000|operating|DEU|Berlin|1|2011.0|events, travels, leisure and entertainment
+8660|Yachtico.com Yacht Charter & Boat Rental|1000000.0|Online Travel|1000000|operating|DEU|Berlin|1|2011.0|online platforms and marketplaces
 8661|Yactraq Online|340000.0|Software|340000|operating|||1|2010.0|technology
 8662|YadaHome|250000.0|Social Media|250000|operating|USA|Washington|1|2008.0|online platforms and marketplaces
 8663|Yakify|100000.0|Architecture|100000|closed|USA|Manhattan Beach|1|2012.0|services
@@ -8732,7 +8732,7 @@
 8730|Youneeq|180000.0|Analytics|180000|operating|CAN|Victoria|1|2009.0|technology
 8731|Your Office Agent|200000.0|Commercial Real Estate|200000|operating|USA|Santa Monica|1|2009.0|financials
 8732|Your Policy Manager|234900.0|Finance|234900|operating|||1|2008.0|financials
-8733|YourListen.com|10000.0|Music|10000|operating|USA|Los Angeles|1|2007.0|events, travels, leisure and entertainment
+8733|YourListen.com|10000.0|Music|10000|operating|USA|Los Angeles|1|2007.0|online platforms and marketplaces
 8734|YourMechanic|1800000.0|Curated Web|1800000|operating|USA|Mountain View|1|2011.0|services
 8735|YourTeamOnline|43179.0|Sports|43179|closed|CAN|Saint John's|1|2007.0|events, travels, leisure and entertainment
 8736|Yoursphere Media|1500000.0|Software|1500000|operating|USA|Davis|1|2007.0|technology
@@ -8752,14 +8752,14 @@
 8750|Yushino|100000.0|Games|250000|operating|USA|New York|2|2011.0|events, travels, leisure and entertainment
 8751|ZANY OX|200000.0|E-Commerce|200000|operating|||1|2013.0|online platforms and marketplaces
 8752|ZAOZAO|330000.0|Jewelry|330000|operating|USA|New York|1|2012.0|luxury
-8753|ZEEF.com|798887.0|Curated Web|2902555|operating|NLD|Amsterdam|3|2013.0|services
+8753|ZEEF.com|798887.0|Curated Web|2902555|operating|NLD|Amsterdam|3|2013.0|online platforms and marketplaces
 8754|ZOCKO|200000.0|Sales and Marketing|200000|operating|ESP|Barcelona|1|2012.0|sales, marketing and advertising
 8755|ZOGOtennis|100000.0|Private Social Networking|100000|operating|USA|New York|1|2014.0|other
 8756|ZOOM TV|150000.0|Internet|150000|operating|||1|2013.0|technology
 8757|ZOZI|1300000.0|Travel|21300000|operating|USA|San Francisco|4|2007.0|events, travels, leisure and entertainment
 8758|ZUGGI|40000.0|Search|40000|operating|||1|2010.0|technology
 8759|Zaarly|1000000.0|Startups|15150000|operating|USA|San Francisco|2|2011.0|services
-8760|Zackfire.com|6000.0|Web Hosting|6000|closed|PAK|Islamabad|1|2010.0|technology
+8760|Zackfire.com|6000.0|Web Hosting|6000|closed|PAK|Islamabad|1|2010.0|online platforms and marketplaces
 8761|Zaelab|250000.0|Consulting|250000|operating|USA|Stamford|1|2013.0|services
 8762|Zaiseoul|680000.0|Travel & Tourism|680000|operating|MEX|China|1|2010.0|events, travels, leisure and entertainment
 8763|Zakada|20000.0|Storage|20000|operating|||1|2011.0|services
@@ -8768,7 +8768,7 @@
 8766|Zapcoder|143948.0|Software|143948|operating|GBR|Glasgow|1|2013.0|technology
 8767|Zapier|1200000.0|SaaS|1200000|operating|USA|Mountain View|2|2011.0|services
 8768|Zapstitch|100000.0|Web Tools|100000|operating|IND|Bangalore|2|2013.0|technology
-8769|Zavedenia.com|5000.0|Internet|5000|operating|BGR|Sofia|1|2007.0|technology
+8769|Zavedenia.com|5000.0|Internet|5000|operating|BGR|Sofia|1|2007.0|online platforms and marketplaces
 8770|Zazom|30000.0|Real Estate|55000|operating|USA|Miami|2|2013.0|financials
 8771|Zazoo|100000.0|Music|3100000|operating|ISR|Netanya|3|2012.0|events, travels, leisure and entertainment
 8772|Zazuba|150000.0|Software|150000|operating|USA|Washington|1|2009.0|technology
@@ -8848,7 +8848,7 @@
 8846|Zulama|200000.0|Education|200000|operating|USA|Pittsburgh|1|2009.0|education
 8847|Zuli|1650000.0|Technology|1650000|operating|USA|San Francisco|3|2012.0|technology
 8848|Zume Life|700000.0|iPhone|1700000|closed|USA|San Jose|2|2006.0|consumer electronics
-8849|Zumeo.com|100000.0|Recruiting|100000|operating|USA|Medford|1|2007.0|services
+8849|Zumeo.com|100000.0|Recruiting|100000|operating|USA|Medford|1|2007.0|online platforms and marketplaces
 8850|Zumi Networks|500000.0|Analytics|500000|operating|USA|Kirkland|1|2013.0|technology
 8851|Zumigo|420000.0|Location Based Services|7720000|operating|USA|San Jose|3|2008.0|services
 8852|ZummZumm|50000.0|Social Media|50000|closed|GBR|London|1|2011.0|online platforms and marketplaces
@@ -8894,7 +8894,7 @@
 8892|bLife|1500000.0|Software|1500000|operating|USA|Santa Monica|1|2010.0|technology
 8893|bOombate|400000.0|Curated Web|400000|operating|RUS|Moscow|1|2010.0|services
 8894|backstitch|20000.0|Search|120000|operating|USA|Detroit|2|2012.0|technology
-8895|baixing.com|2000000.0|Classifieds|56000000|operating|||4|2005.0|services
+8895|baixing.com|2000000.0|Classifieds|56000000|operating|||4|2005.0|online platforms and marketplaces
 8896|basestone|56900.0|Software|56900|operating|||1|2012.0|technology
 8897|basico.com|500000.0|E-Commerce|500000|operating|BRA|São Paulo|1|2012.0|online platforms and marketplaces
 8898|becoacht GmbH|66299.0|Health and Wellness|66299|operating|DEU|Munich|1|2012.0|healthcare
@@ -8903,7 +8903,7 @@
 8901|bettermarks|4162987.0|K-12 Education|29910691|operating|||5|2008.0|education
 8902|bewarket|100000.0|E-Commerce|100000|operating|PRT|Lisbon|1|2012.0|online platforms and marketplaces
 8903|biNu|600000.0|Twitter Applications|7620000|operating|||5|2008.0|technology
-8904|bideo.com|350000.0|Content|500000|operating|USA|New Orleans|2|2010.0|events, travels, leisure and entertainment
+8904|bideo.com|350000.0|Content|500000|operating|USA|New Orleans|2|2010.0|online platforms and marketplaces
 8905|billage|196079.0|Software|196079|operating|ESP|Barcelona|1|2013.0|technology
 8906|bitHound|2000000.0|Software|2000000|operating|CAN|Kitchener|1|2013.0|technology
 8907|bitstars|665000.0|3D Technology|665000|operating|DEU|Aachen|1|2012.0|technology
@@ -8947,7 +8947,7 @@
 8945|copygram|15000.0|Photo Sharing|15000|operating|SWE|Falkenberg|1|2011.0|events, travels, leisure and entertainment
 8946|coramaze technologies|1286600.0|Health and Wellness|1286600|operating|DEU|Essen|1|2013.0|healthcare
 8947|cortical.io|1929900.0|Analytics|3179900|operating|AUT|Vienna|2|2011.0|technology
-8948|creditmontoring.com|1000000.0|Finance|1000000|operating|USA|Scottsdale|1|2011.0|financials
+8948|creditmontoring.com|1000000.0|Finance|1000000|operating|USA|Scottsdale|1|2011.0|online platforms and marketplaces
 8949|cycleWood Solutions|550000.0|E-Commerce|2000000|operating|USA|Dallas|2|2010.0|online platforms and marketplaces
 8950|dINK|500000.0|Enterprise Software|500000|operating|BEL|Vosselaar|1|2010.0|technology
 8951|daPulse|1500000.0|Startups|1500000|operating|ISR|Tel Aviv|1|2012.0|services
@@ -8965,7 +8965,7 @@
 8963|dreamsha.re|20000.0|Software|20000|closed|USA|Los Angeles|1|2013.0|technology
 8964|drumbi|500000.0|Consumers|500000|operating|USA|Irvine|2|2010.0|other consumer retail
 8965|dscovered|20000.0|Design|20000|operating|USA|California City|1|2012.0|services
-8966|dxcare.com|250000.0|Health Care|250000|closed|USA|Chicago|1|2012.0|healthcare
+8966|dxcare.com|250000.0|Health Care|250000|closed|USA|Chicago|1|2012.0|online platforms and marketplaces
 8967|e Health Access|560000.0|Health and Wellness|560000|operating|IND|Hyderabad|1|2013.0|healthcare
 8968|e-Chromic Technologies|600000.0|Internet of Things|600000|operating|USA|Boulder|1|2011.0|technology
 8969|e-contratos|270100.0|Real Time|270100|operating|ESP|Alcoy|1|2003.0|technology
@@ -8981,7 +8981,7 @@
 8979|eFuneral|250000.0|Curated Web|295000|operating|USA|Cleveland|3|2011.0|services
 8980|eGood|3000000.0|Payments|3000000|operating|USA|Glendora|1|2012.0|financials
 8981|eHealth Systems|40000.0|Health and Wellness|40000|operating|CHL|Santiago|1|2010.0|healthcare
-8982|eLibs.com|100000.0|Entertainment|100000|operating|USA|Pompano Beach|1|2000.0|events, travels, leisure and entertainment
+8982|eLibs.com|100000.0|Entertainment|100000|operating|USA|Pompano Beach|1|2000.0|online platforms and marketplaces
 8983|eMazeMe|225000.0|Social Commerce|225000|operating|USA|Chicago|1|2011.0|online platforms and marketplaces
 8984|eMithilaHaat|5000.0|Art|5000|operating|IND|Darbhanga|1|2013.0|events, travels, leisure and entertainment
 8985|eNeura Therapeutics|3224999.0|Biotechnology|13477235|operating|USA|Sunnyvale|5|2000.0|technology
@@ -8994,7 +8994,7 @@
 8992|eRepublik|262640.0|Content|3884570|operating|ESP|Madrid|3|2007.0|events, travels, leisure and entertainment
 8993|eSecure Systems|250000.0|Security|250000|operating|USA|Austin|2|2009.0|services
 8994|eShares|1800000.0|Internet|1800000|operating|USA|Palo Alto|1|2012.0|technology
-8995|eTask.it|200000.0|Software|2700000|operating|GBR|Farnborough|3|2007.0|technology
+8995|eTask.it|200000.0|Software|2700000|operating|GBR|Farnborough|3|2007.0|online platforms and marketplaces
 8996|eVeritas, Inc.|150000.0|Health Care|150000|operating|USA|Minneapolis|1|2009.0|healthcare
 8997|eVoter|99997.0|Politics|599997|closed|USA|Hollywood|2|2009.0|no-profit and government
 8998|eXenSa|189154.0|Data Mining|189154|operating|FRA|Montrouge|1|2011.0|technology
@@ -9065,7 +9065,7 @@
 9063|globa.ly|15000.0|Maps|15000|operating|||1|2010.0|other
 9064|goCatch|3000000.0|Software|8000000|operating|AUS|Sydney|2|2011.0|technology
 9065|goTenna|1836950.0|Privacy|1836950|operating|USA|Brooklyn|1|2012.0|services
-9066|gocarshare.com|52792.0|Curated Web|132940|operating|||2|2009.0|services
+9066|gocarshare.com|52792.0|Curated Web|132940|operating|||2|2009.0|online platforms and marketplaces
 9067|gogamingo|700000.0|Social Games|700000|operating|GBR|Belfast|1|2011.0|events, travels, leisure and entertainment
 9068|goodideazs|27000.0|Advertising|27000|operating|USA|Montclair|1|2007.0|sales, marketing and advertising
 9069|gopogo|3000000.0|Social Commerce|3000000|closed|USA|New York|1|2009.0|online platforms and marketplaces
@@ -9080,7 +9080,7 @@
 9078|hoohbe|25000.0|Video|25000|operating|||1|2013.0|technology
 9079|hoozin|720000.0|Messaging|720000|operating|ISR|Yoqne`am `illit|1|2011.0|online platforms and marketplaces
 9080|hopscout|1300000.0|E-Commerce|1300000|closed|USA|San Francisco|1|2011.0|online platforms and marketplaces
-9081|hotelsmap.com|5000.0|Travel|5000|closed|ARE|Dubai|1|2010.0|events, travels, leisure and entertainment
+9081|hotelsmap.com|5000.0|Travel|5000|closed|ARE|Dubai|1|2010.0|online platforms and marketplaces
 9082|hyaqu|500000.0|E-Commerce|500000|closed|USA|Lake Oswego|1|2011.0|online platforms and marketplaces
 9083|i'mma|125000.0|E-Commerce|125000|closed|IND|Mumbai|1|2013.0|online platforms and marketplaces
 9084|i-marker|200000.0|Search|200000|operating|||1|2014.0|technology
@@ -9126,7 +9126,7 @@
 9124|iPAYst|360188.0|Mobile Payments|9278374|operating|DEU|Munich|3|2010.0|financials
 9125|iPG Maxx Entertainment India (P) Ltd|500000.0|Film|500000||IND||1|2014.0|events, travels, leisure and entertainment
 9126|iPowow|1600000.0|Internet|1600000|operating|||1|2010.0|technology
-9127|iQuantifi.com|500000.0|Technology|2600000|operating|USA|Franklin|3|2011.0|technology
+9127|iQuantifi.com|500000.0|Technology|2600000|operating|USA|Franklin|3|2011.0|online platforms and marketplaces
 9128|iRidge|1037703.0|Advertising|3163478|operating|JPN|Tokyo|2|2008.0|sales, marketing and advertising
 9129|iRx Reminder|250000.0|Health and Wellness|250000|operating|USA|Cleveland|1|2009.0|healthcare
 9130|iSSimple|50000.0|Software|50000|operating|THA|Bangkok|1|2011.0|technology
@@ -9164,7 +9164,7 @@
 9162|intelloCut|200000.0|Software|200000|operating|IND|Noida|1|2012.0|technology
 9163|interspireSubmit|500000.0|SEO|500000|closed|||1|2010.0|sales, marketing and advertising
 9164|invino|150000.0|Flash Sales|3150000|operating|USA|San Francisco|5|2009.0|online platforms and marketplaces
-9165|ipatter.com|430752.0|Curated Web|811268|operating|GBR|Norwich|2|2009.0|services
+9165|ipatter.com|430752.0|Curated Web|811268|operating|GBR|Norwich|2|2009.0|online platforms and marketplaces
 9166|ipnexus|900000.0|Finance|900000|operating|||1|2012.0|financials
 9167|ipsy|479998.0|Beauty|3235793|operating|USA|San Mateo|2|2011.0|events, travels, leisure and entertainment
 9168|ishBowl|25000.0|Sports|25000|operating|USA|San Francisco|1|2012.0|events, travels, leisure and entertainment
@@ -9187,9 +9187,9 @@
 9185|klinify|604000.0|Health Care|644000|operating|SGP|Singapore|3|2011.0|healthcare
 9186|kontakt.io|250000.0|Internet of Things|2250000|operating|POL|Kraków|2|2013.0|technology
 9187|kooldiner|120759.0|Social Media|406939|operating|||2|2011.0|online platforms and marketplaces
-9188|kozaza.com|500000.0|Local Based Services|500000|operating|KOR|Seoul|1|2012.0|services
+9188|kozaza.com|500000.0|Local Based Services|500000|operating|KOR|Seoul|1|2012.0|online platforms and marketplaces
 9189|lancers Inc|2900000.0|Crowdsourcing|11350000|operating|JPN|Tokyo|2|2008.0|online platforms and marketplaces
-9190|larala.com|780000.0|Music|780000|operating|ARG|Buenos Aires|1|2010.0|events, travels, leisure and entertainment
+9190|larala.com|780000.0|Music|780000|operating|ARG|Buenos Aires|1|2010.0|online platforms and marketplaces
 9191|lark|1000000.0|Health and Wellness|4100000|operating|USA|Mountain View|2|2010.0|healthcare
 9192|legalPAD|20275.0|Business Intelligence|20275|operating|ITA|Roncade|1|2010.0|technology
 9193|lensgen|1500000.0|Health Care|2450000|operating|USA|Irvine|2|2011.0|healthcare
@@ -9201,7 +9201,7 @@
 9199|littleBits Electronics|850000.0|Hardware + Software|15600000|operating|USA|New York|4|2011.0|technology
 9200|liveMag.ro|233100.0|Shopping|233100|closed|ROM|Bucharest|1|2009.0|other consumer retail
 9201|localbacon|875000.0|Employment|875000|operating|USA|New York|1|2009.0|services
-9202|localstay.com|2500.0|Travel|2500|operating|NLD|Amsterdam|1|2013.0|events, travels, leisure and entertainment
+9202|localstay.com|2500.0|Travel|2500|operating|NLD|Amsterdam|1|2013.0|online platforms and marketplaces
 9203|locr|857480.0|Curated Web|2559510|operating|DEU|Braunschweig|2|2006.0|services
 9204|lovemeshare.me|40000.0|E-Commerce|40000|operating|CHL|Santiago|1|2012.0|online platforms and marketplaces
 9205|m-Care Technology|41250.0|Health and Wellness|41250|operating|||1|2014.0|healthcare
@@ -9250,8 +9250,8 @@
 9248|my3Dreams|40000.0|3D Printing|40000|operating|CHL|Santiago|1|2013.0|technology
 9249|my6sense|500000.0|Advertising|7500000|acquired|USA|San Francisco|4|2007.0|sales, marketing and advertising
 9250|myAchy|60000.0|Mobile|85000|operating|USA|Santa Clara|2|2011.0|consumer electronics
-9251|myNoticePeriod.com|5453.0|Recruiting|5453|operating|IND|Bangalore|1|2013.0|services
-9252|myPizza.com|50000.0|Restaurants|50000|operating|USA|Mountain View|1|2009.0|events, travels, leisure and entertainment
+9251|myNoticePeriod.com|5453.0|Recruiting|5453|operating|IND|Bangalore|1|2013.0|online platforms and marketplaces
+9252|myPizza.com|50000.0|Restaurants|50000|operating|USA|Mountain View|1|2009.0|online platforms and marketplaces
 9253|myShavingClub.com|250000.0|E-Commerce|250000|operating|USA|Addison|1|2012.0|online platforms and marketplaces
 9254|myTAG.com|100000.0|E-Commerce|100000|operating|USA|San Jose|1|2011.0|online platforms and marketplaces
 9255|myTurn|17000.0|E-Commerce|17000|operating|USA|Berkeley|1|2013.0|online platforms and marketplaces
@@ -9273,7 +9273,7 @@
 9271|naaya|400000.0|Games|400000|operating|USA|Bethesda|1|2012.0|events, travels, leisure and entertainment
 9272|nanoPay inc.|339805.0|Retail|339805|operating|||1|2013.0|other consumer retail
 9273|navabi|814250.0|Retail|16480250|operating|DEU|Aachen|3|2007.0|other consumer retail
-9274|nediyor.com|134649.0|Curated Web|134649|operating|TUR|Istanbul|1|2012.0|services
+9274|nediyor.com|134649.0|Curated Web|134649|operating|TUR|Istanbul|1|2012.0|online platforms and marketplaces
 9275|nextSociety, Inc.|700000.0|Professional Networking|800000|operating|USA|New York|2|2013.0|services
 9276|nextsocial|32165.0|Facebook Applications|32165||DEU|Berlin|2|2011.0|technology
 9277|nousDECOR|2100000.0|Design|2100000|operating|USA|San Mateo|1|2012.0|services
@@ -9305,7 +9305,7 @@
 9303|piALGO Technologies|35000.0|Trading|35000|operating|CAN|Vancouver|1|2013.0|financials
 9304|pickrset|100000.0|Games|100000|closed|USA|San Clemente|1|2007.0|events, travels, leisure and entertainment
 9305|powervault|150000.0|Renewable Tech|150000|operating|GBR|London|1|2012.0|technology
-9306|produkte24.com|50000.0|SaaS|50000|operating|CHE|Herisau|1|2006.0|services
+9306|produkte24.com|50000.0|SaaS|50000|operating|CHE|Herisau|1|2006.0|online platforms and marketplaces
 9307|proteonomix|3804991.0|Biotechnology|3804991|operating|USA|Hawthorne|1|1995.0|technology
 9308|pushd|1350000.0|Apps|2390000|operating|USA|San Francisco|2|2012.0|technology
 9309|quitchen|100000.0|Restaurants|100000|operating|USA|Chicago|1|2012.0|events, travels, leisure and entertainment
@@ -9355,7 +9355,7 @@
 9353|takokat|350000.0|Hospitality|350000|operating|USA|Pasadena|1|2011.0|no-profit and government
 9354|the grafter|51464.0|Mobile|51464|operating|ESP|Logroño|1|2012.0|consumer electronics
 9355|theeventwall|50000.0|Marketplaces|50000|operating|GBR|Dorking|1|2010.0|online platforms and marketplaces
-9356|thephotocloser.com|200000.0|Internet Marketing|400000|operating|USA|New York|2|2012.0|sales, marketing and advertising
+9356|thephotocloser.com|200000.0|Internet Marketing|400000|operating|USA|New York|2|2012.0|online platforms and marketplaces
 9357|thinkingphones|2886017.0|Enterprise Software|31156017|operating|USA|Cambridge|4|2006.0|technology
 9358|tibdit|64630.0|Finance|64630|operating|GBR|Southwark|1|2013.0|financials
 9359|ticketea|280000.0|Ticketing|5730000|operating|ESP|Madrid|3|2010.0|services
@@ -9425,13 +9425,13 @@
 9423|yeppt|34517.0|Apps|34517|operating|DEU|Berlin|1|2014.0|technology
 9424|yocomobien.es|261745.0|E-Commerce|813646|operating|ESP|Valencia|2|2011.0|online platforms and marketplaces
 9425|yoone|197597.0|Games|197597|closed|DEU|Bielefeld|1|2010.0|events, travels, leisure and entertainment
-9426|youblisher.com|150000.0|SaaS|150000|operating|CHE|Herisau|1|2008.0|services
+9426|youblisher.com|150000.0|SaaS|150000|operating|CHE|Herisau|1|2008.0|online platforms and marketplaces
 9427|zLense|325000.0|Software|325000|operating|HUN|Budapest|1|2012.0|technology
 9428|zSoup|90000.0|Search|90000|operating|KOR|Seongnam|1|2007.0|technology
 9429|zanda|10000.0|News|10000|operating|||1|2013.0|events, travels, leisure and entertainment
 9430|zappit|576456.0|Mobile Payments|576456|operating|GBR|London|1|2011.0|financials
 9431|zeotap|1300000.0|Big Data|1300000|operating|DEU|Berlin|1|2014.0|technology
-9432|zwoor.com|100000.0|Polling|100000|operating|||1|2010.0|technology
+9432|zwoor.com|100000.0|Polling|100000|operating|||1|2010.0|online platforms and marketplaces
 9433|İş kutusu video ajansı|100000.0|Online Video Advertising|100000|operating|TUR|Istanbul|1|2013.0|sales, marketing and advertising
 9434|​Shwrüm|50000.0|Internet|50000|operating|USA|Gainesville|1|2013.0|technology
 9435|豆浆油条|10000.0|Mobile|10000|operating|CHN|Beijing|1|2012.0|consumer electronics
