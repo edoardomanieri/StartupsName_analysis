@@ -1,0 +1,118 @@
+1542708866072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CuoJVxRhvhEB"
+
+(firefox:12955): Gtk-WARNING **: 11:14:27.604: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12955): Gtk-WARNING **: 11:14:27.604: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542708870423	Marionette	INFO	Listening on port 37011
+1542708870490	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.crunchbase.com/polyfills.f2e66dbd662d4d17206a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.crunchbase.com/polyfills.f2e66dbd662d4d17206a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12955, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542709984221	Marionette	INFO	Stopped listening on port 37011
+1542712205967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DirVgJDsjJiI"
+
+(firefox:14596): Gtk-WARNING **: 12:10:07.227: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14596): Gtk-WARNING **: 12:10:07.227: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542712209671	Marionette	INFO	Listening on port 35781
+1542712209686	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 25: TypeError: this._document.head is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/amInstallTrigger.js, line 41: TypeError: this.mm is null
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient/app.js?ts=1542713309481, line 2: TypeError: s.getOlark(...) is undefined
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient/app.js?ts=1542713347537, line 2: TypeError: e is undefined
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 25: TypeError: this._document.head is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 25: TypeError: this._document.head is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 25: TypeError: this._document.head is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 34: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 25: TypeError: this._document.head is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+JavaScript error: https://static.olark.com/jsclient-bucket1/application2.js?v=1542382716005, line 33: TypeError: olark._.document.location is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+ExceptionHandler::GenerateDump cloned child 31149
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+[Parent 14596, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1542714270707	Marionette	INFO	Stopped listening on port 35781
