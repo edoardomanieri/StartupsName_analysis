@@ -1,11 +1,11 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
+
 /* Returns an unsigned integer, depicting
  * the difference between `a` and `b`.
  * See http://en.wikipedia.org/wiki/Levenshtein_distance
  * for more information. */
-
 unsigned int
 levenshtein(const char *a, const char *b) {
   unsigned int length = strlen(a);
@@ -62,6 +62,7 @@ levenshtein(const char *a, const char *b) {
 }
 
 int main(){
+  // Simple test
   char *str1 = "adobe";
   char *str2 = "adoce";
 
