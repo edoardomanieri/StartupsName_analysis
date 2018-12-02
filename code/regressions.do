@@ -64,8 +64,8 @@ xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year < 2008, fe clu
 estimates store Before_2008
 xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year < 2008 & founded_year > 2002, fe cluster(country)
 estimates store From_2003_to_2007
-coefplot Before_2008 From_2003_to_2007 After_2008, vertical keep(*:dotcom)
-esttab From_1990_to_2014 From_2008 Before_2008 From_2003_to_2007 using results.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("from 1990 to 2014" "from 2008" "before 2008" "from 2003 to 2007") title("online platforms") keep(dotcom _cons) append
+coefplot Before_2008 From_2003_to_2007 From_2008, vertical keep(*:dotcom)
+esttab From_1990_to_2014 Before_2008 From_2003_to_2007 From_2008 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("from 1990 to 2014" "before 2008" "from 2003 to 2007" "from 2008") title("online platforms") keep(dotcom _cons) append
 
 
 encode status, gen(enc_status)
