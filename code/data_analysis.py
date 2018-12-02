@@ -34,6 +34,7 @@ final_tech_data = pd.concat( (final_tech_data, temp) )
 # find out which companies have keywords in their name
 trend_subs, trend_companies = sv.get_nearest_substrings(final, "technology", number_of_substrings = 10, min_len_of_substrings = 4)
 trend_companies = { "ai":["Tempo AI", "Wit.ai", "aiHit", "Feedzai", "Aivo"], "deep":["DeepField"], "data":trend_companies["data"], "algo":trend_companies["algo"], "ytics":trend_companies["ytics"] + ["Trendalytics", "Vantage Analytics"] }
+trend_companies
 
 # append dummy column for analysis with stata
 hasAI = sv.append_dummy_column(final_tech_data, trend_companies, 0, "technology", "hasAI")

@@ -1,6 +1,6 @@
 *Healthcare, has medica
 clear all
-import delimited "/Users/lucamasserano/Desktop/BOCCONI/Business Analytics/Final project/Business_Analytics/data/health_and_medica.csv", delimiter("|")
+import delimited "../data/datasets_processed/healthcare_dataset.csv", delimiter("|")
 
 *encoding country
 encode country_code, gen(country)
@@ -38,7 +38,7 @@ esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acq
 **********************************************************************************
 *Online-platforms, has .com
 clear all
-import delimited "/Users/lucamasserano/Desktop/BOCCONI/Business Analytics/Final project/Business_Analytics/data/hasdotcom.csv", delimiter("|")
+import delimited "../data/datasets_processed/onlinePlatforms_dataset.csv", delimiter("|")
 
 *encoding country
 encode country_code, gen(country)
@@ -56,19 +56,16 @@ rename hasdotcom dotcom
 
 *Regressions // no perf_proxy because endogenous --> multinomial logit
 xtset country
+xtreg log_raised dotcom i.enc_mark i.founded_year, fe cluster(country)
+estimates store From_1990_to_2014
 xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year >= 2008, fe cluster(country)
-estimates store a
-coefplot a, bylabel(After 2008) ||, keep(*:dotcom) xscale(range (-3 3)) xlabel(-3 "-3" -2 "-2" 0 "0" 1 "1" 2 "2" 3 "3")  xline(0, lcolor( black) lwidth(thin) lpattern(dash)) ciopts(recast(rcap))
+estimates store After_2007
 xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year < 2008, fe cluster(country)   // no perf_proxy because endogenous --> multinomial logit
-estimates store b
-coefplot b, bylabel(Before 2008) ||, keep(*:dotcom) xscale(range (-3 3)) xlabel(-3 "-3" -2 "-2" 0 "0" 1 "1" 2 "2" 3 "3")  xline(0, lcolor( black) lwidth(thin) lpattern(dash)) ciopts(recast(rcap))
+estimates store Before_2008
 xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year < 2008 & founded_year > 2002, fe cluster(country)
-estimates store c
-esttab a b c using results.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("after 2007" "before 2008" "between 2003 and 2007") title("online platforms") keep(dotcom _cons) append
-coefplot c, bylabel(Between 2003 and 2007) ||, keep(*:dotcom) xscale(range (-3 3)) xlabel(-3 "-3" -2 "-2" 0 "0" 1 "1" 2 "2" 3 "3")  xline(0, lcolor( black) lwidth(thin) lpattern(dash)) ciopts(recast(rcap))
-
-
-coefplot a, bylabel(After 2008) || b, bylabel(Between 2003 and 2008) || c, bylabel(before 2008) ||, keep(*:hasdotcom)
+estimates store From_2003_to_2007
+coefplot Before_2008 From_2003_to_2007 After_2008, vertical keep(*:dotcom)
+esttab From_1990_to_2014 After_2007 Before_2008 From_2003_to_2007 using results.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("from 1990 to 2014" "after 2007" "before 2008" "from 2003 to 2007") title("online platforms") keep(dotcom _cons) append
 
 
 encode status, gen(enc_status)
@@ -88,7 +85,7 @@ esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acq
 **********************************************************************************
 *Technology, has algo-data-ai-deep-ytics
 clear all
-import delimited "/Users/lucamasserano/Desktop/BOCCONI/Business Analytics/Final project/Business_Analytics/data/final_tech_db.csv", delimiter("|")
+import delimited "../data/datasets_processed/technology_dataset.csv", delimiter("|")
 
 drop v1
 drop if company_name == ""
