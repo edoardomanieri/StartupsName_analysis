@@ -22,6 +22,11 @@ xtreg log_raised medical i.enc_mark i.founded_year, fe cluster(country)  // no p
 est store a
 esttab a using results.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("medical") title("healthcare") keep(medical _cons) replace
 
+*for the appendix
+xtreg log_raised medical perf_proxy i.enc_mark i.founded_year, fe cluster(country)  // no perf_proxy because endogenous --> multinomial logit
+est store b
+esttab b using appendix.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("medical") title("healthcare (with perf_proxy)") keep(medical _cons) replace
+
 encode status, gen(enc_status)
 mlogit enc_status i.medical, base(1) // base == acquired
 margins medical, atmeans predict(outcome(1)) post
@@ -34,6 +39,8 @@ margins medical, atmeans predict(outcome(3)) post
 est store m3
 
 esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("healthcare performance control") append
+
+
 
 **********************************************************************************
 *Online-platforms, has .com
@@ -66,6 +73,18 @@ xtreg log_raised dotcom i.enc_mark i.founded_year if founded_year < 2008 & found
 estimates store From_2003_to_2007
 coefplot Before_2008 From_2003_to_2007 From_2008, vertical keep(*:dotcom)
 esttab From_1990_to_2014 Before_2008 From_2003_to_2007 From_2008 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("from 1990 to 2014" "before 2008" "from 2003 to 2007" "from 2008") title("online platforms") keep(dotcom _cons) append
+
+
+*for the appendix
+xtreg log_raised dotcom perf_proxy i.enc_mark i.founded_year, fe cluster(country)
+estimates store a
+xtreg log_raised dotcom perf_proxy i.enc_mark i.founded_year if founded_year >= 2008, fe cluster(country)
+estimates store d
+xtreg log_raised dotcom perf_proxy i.enc_mark i.founded_year if founded_year < 2008, fe cluster(country)   // no perf_proxy because endogenous --> multinomial logit
+estimates store b
+xtreg log_raised dotcom perf_proxy i.enc_mark i.founded_year if founded_year < 2008 & founded_year > 2002, fe cluster(country)
+estimates store c
+esttab a b c d using appendix.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("from 1990 to 2014" "before 2008" "from 2003 to 2007" "from 2008") title("online platforms(with perf_proxy)") keep(dotcom _cons) append
 
 
 encode status, gen(enc_status)
@@ -111,6 +130,11 @@ xtset enc_country
 xtreg log_raised trending_name i.enc_mark i.founded_year, fe cluster(enc_country) // without perf_proxy because endogenous --> multinomial logit
 estimates store a
 esttab a using results.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("trending name") title("technology") keep(trending_name _cons) append
+
+*for the appendix
+xtreg log_raised trending_name i.enc_mark i.founded_year, fe cluster(enc_country) // without perf_proxy because endogenous --> multinomial logit
+estimates store ap
+esttab ap using appendix.tex,b se stats(r2) star(* 0.1 ** 0.05 *** 0.01) mtitles("trending name") title("technology (with perf_proxy)") keep(trending_name _cons) append
 
 encode status, gen(enc_status)
 mlogit enc_status i.trending_name, base(1) // base == acquired
