@@ -38,8 +38,8 @@ mlogit enc_status i.medical, base(1)
 margins medical, atmeans predict(outcome(3)) post
 est store m3
 
-esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("healthcare performance control") append
-
+*esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("healthcare performance control") append
+esttab m1 m2 m3 using reslogit.tex,b mtitles("acquired" "closed" "operating") title("healthcare performance control") replace
 
 
 **********************************************************************************
@@ -98,8 +98,8 @@ mlogit enc_status i.dotcom, base(1)
 margins dotcom, atmeans predict(outcome(3)) post
 est store m3
 
-esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("online platforms performance control") append
-
+*esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("online platforms performance control") append
+esttab m1 m2 m3 using reslogit.tex,b mtitles("acquired" "closed" "operating") title("online platforms performance control") append
 
 **********************************************************************************
 *Technology, has algo-data-ai-deep-ytics
@@ -147,4 +147,5 @@ mlogit enc_status i.trending_name, base(1)
 margins trending_name, atmeans predict(outcome(3)) post
 est store m3
 
-esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("technology performance control") append
+*esttab m1 m2 m3 using results.tex,b se star(* 0.1 ** 0.05 *** 0.01) mtitles("acquired" "closed" "operating") title("technology performance control") append
+esttab m1 m2 m3 using reslogit.tex,b mtitles("acquired" "closed" "operating") title("technology performance control") append
