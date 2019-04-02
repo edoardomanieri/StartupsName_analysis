@@ -1,2 +1,3 @@
-# Business_Analytics
-Repo for Business Analytics final project
+# StartupsName_analysis
+
+Research work on how much the startup's name can influence the investment at the seed stage.
